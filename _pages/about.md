@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - *2024.11*: &nbsp; New Paper on PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud. 
 - *2024.10*: &nbsp; New Paper on Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space.
-- 
+
 <!--
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
