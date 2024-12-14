@@ -24,8 +24,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 
-# 🔥 News
-:kissing_heart: New Papers:
+<!--# 🔥 News-->
+#:kissing_heart: Paper News:
 - *2024.12*: &nbsp; HeightFormer: Learning Height Prediction in 3D Feature for Roadside Vision Centric 3D Object Detection via Transformers. 
 - *2024.11*: &nbsp; PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud. 
 - *2024.10*: &nbsp; Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space.
