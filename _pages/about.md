@@ -41,7 +41,15 @@ My research interest includes neural machine translation and computer vision. I 
 Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">todo</div><img src='images/pillarmamba.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+[PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model] <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
   
+**Zhang Zhang**, Chao Sun, Todo
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/heightformer.png' alt="sym" width="300" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 [HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer](https://arxiv.org/pdf/2503.10777.pdf)
@@ -50,7 +58,15 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/height3d.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/pillarid.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+[PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud] <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
+  
+**Zhang Zhang**, Chao Sun, Bo Wang, Da Wen
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS 2025</div><img src='images/height3d.png' alt="sym" width="300" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 [Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space] <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
   
