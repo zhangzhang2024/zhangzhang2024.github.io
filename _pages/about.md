@@ -26,6 +26,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--# 🔥 News-->
 # 🔥 _Paper News :_
+- *2025.03* : &nbsp; HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots.
+- *2025.01* : &nbsp; PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model.
 - *2024.12* : &nbsp; HeightFormer: Learning Height Prediction in 3D Feature for Roadside Vision Centric 3D Object Detection via Transformers. 
 - *2024.11* : &nbsp; PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud. 
 - *2024.10* : &nbsp; Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space.
@@ -36,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 [HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010.pdf)
   
-Qiang Zhang*, **Zhang Zhang***, Wei Cui*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu
+Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu
 </div>
 </div>
   
