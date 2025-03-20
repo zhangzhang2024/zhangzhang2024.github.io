@@ -34,7 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/h-pano.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010.pdf)
   
@@ -42,7 +42,7 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/heightformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer](https://arxiv.org/pdf/2503.10777.pdf)
   
@@ -50,7 +50,7 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/height3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space] <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
   
