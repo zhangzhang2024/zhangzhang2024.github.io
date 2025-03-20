@@ -34,14 +34,16 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots] ([https://arxiv.org/pdf/2503.10777](https://arxiv.org/pdf/2503.09010))
+[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots] (https://arxiv.org/pdf/2503.09010)
+  
 Qiang Zhang*, **Zhang Zhang***, Wei Cui*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu
 </div>
 </div>
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer] ([https://arxiv.org/pdf/2503.10777](https://arxiv.org/pdf/2503.10777))
+[HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer] (https://arxiv.org/pdf/2503.10777)
+  
 **Zhang Zhang**, Chao Sun, Chao Yue, Da Wen, Yujie Chen, Tianze Wang, Jianghao Leng
 </div>
 </div>
@@ -49,6 +51,7 @@ Qiang Zhang*, **Zhang Zhang***, Wei Cui*, Jingkai Sun, Jiahang Cao, Yijie Guo, G
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space] <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
+  
 **Zhang Zhang**, Chao Sun, Bo Wang, Bin Guo, Da Wen, Tianyi Zhu, Qili Ning
 </div>
 </div>
