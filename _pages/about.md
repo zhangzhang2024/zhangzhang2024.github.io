@@ -26,6 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--# 🔥 News-->
 # 🔥 _Paper News :_
+- *2025.03* : &nbsp; Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration.
 - *2025.03* : &nbsp; HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots.
 - *2025.01* : &nbsp; PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model.
 - *2024.12* : &nbsp; HeightFormer: Learning Height Prediction in 3D Feature for Roadside Vision Centric 3D Object Detection via Transformers. 
@@ -34,6 +35,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/qmambair.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+[Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration](https://arxiv.org/pdf/2503.21970.pdf)
+  
+Yujie Chen, Haotong Qin, **Zhang Zhang\***, Michelo Magno, Luca Benini, Yawei Li
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/h-pano.png' alt="sym" width="300" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 [HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010.pdf)
