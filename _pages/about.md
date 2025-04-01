@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 [Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration](https://arxiv.org/pdf/2503.21970.pdf)
   
-Yujie Chen, Haotong Qin, **Zhang Zhang\***, Michelo Magno, Luca Benini, Yawei Li
+Yujie Chen, Haotong Qin, **Zhang Zhang**, Michelo Magno, Luca Benini, Yawei Li
 </div>
 </div>
 
