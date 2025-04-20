@@ -27,6 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!--# 🔥 News-->
 # 🔥 _Paper News :_
 - *2025.04* : &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots.
+- *2025.04* : &nbsp; RoadFormer: Road Surface Classification Using Local-Global Feature Fusion.
 - *2025.03* : &nbsp; Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration.
 - *2025.03* : &nbsp; HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots.
 - *2025.01* : &nbsp; PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model.
@@ -42,6 +43,14 @@ My research interest includes neural machine translation and computer vision. I 
 [RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots]
   
 **Zhang Zhang\***, Qiang Zhang\*, Wei Cui\*, Todo
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/roadformer.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+[RoadFormer: Road Surface Classification Using Local-Global Feature Fusion]
+  
+Tianze Wang\*, **Zhang Zhang\***, Chao Sun, Todo
 </div>
 </div>
 
