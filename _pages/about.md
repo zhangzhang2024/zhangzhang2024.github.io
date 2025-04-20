@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/roboocc.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/roboocc.png' alt="sym" width="450" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 [RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots]
   
@@ -46,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/roadformer.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/roadformer.png' alt="sym" width="450" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 [RoadFormer: Road Surface Classification Using Local-Global Feature Fusion]
   
@@ -54,7 +54,7 @@ Tianze Wang\*, **Zhang Zhang\***, Chao Sun, Todo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/qmambair.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/qmambair.png' alt="sym" width="450" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 [Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration](https://arxiv.org/pdf/2503.21970.pdf)
   
@@ -62,7 +62,7 @@ Yujie Chen, Haotong Qin, **Zhang Zhang**, Michelo Magno, Luca Benini, Yawei Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/h-pano.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/h-pano.png' alt="sym" width="450" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 [HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010.pdf)
   
@@ -70,7 +70,7 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">todo</div><img src='images/pillarmamba.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">todo</div><img src='images/pillarmamba.png' alt="sym" width="450" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 [PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model] <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
   
@@ -78,7 +78,7 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/heightformer.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/heightformer.png' alt="sym" width="450" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 [HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer](https://arxiv.org/pdf/2503.10777.pdf)
   
@@ -86,18 +86,17 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/pillarid.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/pillarid.png' alt="sym" width="450" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
-[PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud] <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
+[PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud]
   
 **Zhang Zhang**, Chao Sun, Bo Wang, Da Wen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS 2025</div><img src='images/height3d.png' alt="sym" width="300" height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS 2025</div><img src='images/height3d.png' alt="sym" width="450" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
-[Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space] <!--(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)-->
-  
+[Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space]
 **Zhang Zhang**, Chao Sun, Bo Wang, Bin Guo, Da Wen, Tianyi Zhu, Qili Ning
 </div>
 </div>
