@@ -97,6 +97,7 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS 2025</div><img src='images/height3d.png' alt="sym" width="450" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 [Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space]
+  
 **Zhang Zhang**, Chao Sun, Bo Wang, Bin Guo, Da Wen, Tianyi Zhu, Qili Ning
 </div>
 </div>
