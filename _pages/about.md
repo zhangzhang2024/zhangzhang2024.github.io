@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/roboocc.png' alt="sym" width="450" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
-[RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots]
+[RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots](https://arxiv.org/pdf/2504.14604.pdf)
   
 **Zhang Zhang\***, Qiang Zhang\*, Wei Cui\*, Todo
 </div>
