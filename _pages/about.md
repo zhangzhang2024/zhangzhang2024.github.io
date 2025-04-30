@@ -26,15 +26,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--# 🔥 News-->
 # 🔥 _Paper News_
-- *2025.04* : &nbsp; RoboOccWorld: Occupancy World Model for Robots
-- *2025.04* : &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots
-- *2025.04* : &nbsp; RoadFormer: Road Surface Classification Using Local-Global Feature Fusion
-- *2025.03* : &nbsp; Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration
-- *2025.03* : &nbsp; HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots
-- *2025.01* : &nbsp; PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model
-- *2024.12* : &nbsp; HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer
-- *2024.11* : &nbsp; PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud
-- *2024.10* : &nbsp; Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space
+- _*2025.04* : &nbsp; RoboOccWorld: Occupancy World Model for Robots_
+- _*2025.04* : &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots_
+- _*2025.04* : &nbsp; RoadFormer: Road Surface Classification Using Local-Global Feature Fusion_
+- _*2025.03* : &nbsp; Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration_
+- _*2025.03* : &nbsp; HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots_
+- _*2025.01* : &nbsp; PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model_
+- _*2024.12* : &nbsp; HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer_
+- _*2024.11* : &nbsp; PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud_
+- _*2024.10* : &nbsp; Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space_
 
 
 # 📝 _Publications_
