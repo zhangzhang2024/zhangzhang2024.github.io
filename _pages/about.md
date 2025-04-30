@@ -52,12 +52,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">arxiv 2025</div><img src='images/roboocc.png' alt="sym" width="300" height="200"></div></div>
-<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 10px;">
+<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 12px;">
 **[RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots](https://arxiv.org/pdf/2504.14604.pdf)**
   
 **Zhang Zhang\***, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang
 
-- _We propose an enhanced geometric and semantic scene understanding 3D occupancy prediction method for robots._
+- _We introduce a method for enhancing geometric and semantic scene understanding in 3D occupancy prediction task for robots._
 </div>
 </div>
 
