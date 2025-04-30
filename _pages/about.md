@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, 👋
-I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **Prof. Chao Sun**. 
+👋 Hi, I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **Prof. Chao Sun**. 
 
 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/about.html" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**.
 
-My research interests focus on: **Cooperative Perception**, **Embodied Agents** and **World Models**.
+🔥 My research interests focus on: 
+- _**Cooperative Perception**_
+- _**Embodied Agents**_:
+- _**World Models**_:
 
-<!--# 🔥 News-->
 # 🔥 _Paper News_
 - _2025.04: &nbsp; Occupancy World Model for Robots_
 - _2025.04: &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots_
