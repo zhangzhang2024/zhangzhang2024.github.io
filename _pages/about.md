@@ -39,8 +39,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 _Publications_
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">arxiv 2025</div><img src='images/robooccworld.png' alt="sym" width="300" height="200"></div></div>
-<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 12px;">
+  <div><div class="badge">arxiv 2025</div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 16px;">
 **[Occupancy World Model for Robots]**
   
 <span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang
@@ -51,8 +51,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">arxiv 2025</div><img src='images/roboocc.png' alt="sym" width="300" height="200"></div></div>
-<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 12px;">
+  <div><div class="badge">arxiv 2025</div><img src='images/roboocc.png' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 16px;">
 **[RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots](https://arxiv.org/pdf/2504.14604.pdf)**
   
 **Zhang Zhang\***, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang
@@ -62,8 +62,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">arxiv 2025</div><img src='images/roadformer.png' alt="sym" width="300" height="200"></div></div>
-<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 12px;">
+  <div><div class="badge">arxiv 2025</div><img src='images/roadformer.png' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 16px;">
 **[RoadFormer: Road Surface Classification Using Local-Global Feature Fusion]**
   
 Tianze Wang\*, **Zhang Zhang\***, Chao Sun, Todo
@@ -73,8 +73,8 @@ Tianze Wang\*, **Zhang Zhang\***, Chao Sun, Todo
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">arxiv 2025</div><img src='images/qmambair.jpg' alt="sym" width="300" height="200"></div></div>
-<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 12px;">
+  <div><div class="badge">arxiv 2025</div><img src='images/qmambair.jpg' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 16px;">
 **[Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration](https://arxiv.org/pdf/2503.21970.pdf)**
   
 Yujie Chen, Haotong Qin, **Zhang Zhang**, Michelo Magno, Luca Benini, Yawei Li
@@ -84,8 +84,8 @@ Yujie Chen, Haotong Qin, **Zhang Zhang**, Michelo Magno, Luca Benini, Yawei Li
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">arxiv 2025</div><img src='images/h-pano.png' alt="sym" width="300" height="200"></div></div>
-<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 12px;">
+  <div><div class="badge">arxiv 2025</div><img src='images/h-pano.png' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 16px;">
 **[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010.pdf)**
   
 Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu
@@ -95,8 +95,8 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">todo</div><img src='images/pillarmamba.png' alt="sym" width="300" height="200"></div></div>
-<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 12px;">
+  <div><div class="badge">todo</div><img src='images/pillarmamba.png' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 16px;">
 **[PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model]**
   
 **Zhang Zhang**, Chao Sun, Todo
@@ -104,8 +104,8 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">arxiv 2025</div><img src='images/heightformer.png' alt="sym" width="300" height="200"></div></div>
-<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 12px;">
+  <div><div class="badge">arxiv 2025</div><img src='images/heightformer.png' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 16px;">
 **[HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer](https://arxiv.org/pdf/2503.10777.pdf)**
   
 **Zhang Zhang**, Chao Sun, Chao Yue, Da Wen, Yujie Chen, Tianze Wang, Jianghao Leng
@@ -115,8 +115,8 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">under review</div><img src='images/pillarid.png' alt="sym" width="300" height="200"></div></div>
-<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 12px;">
+  <div><div class="badge">under review</div><img src='images/pillarid.png' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 16px;">
 **[PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud]**
   
 **Zhang Zhang**, Chao Sun, Bo Wang, Da Wen
@@ -126,8 +126,8 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">T-ITS 2025</div><img src='images/height3d.png' alt="sym" width="300" height="200"></div></div>
-<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 12px;">
+  <div><div class="badge">T-ITS 2025</div><img src='images/height3d.png' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 16px;">
 **[Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space]**
   
 **Zhang Zhang**, Chao Sun, Bo Wang, Bin Guo, Da Wen, Tianyi Zhu, Qili Ning
