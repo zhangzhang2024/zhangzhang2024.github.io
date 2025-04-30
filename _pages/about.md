@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D student in School of Mechanical Engineering, Beijing Institute of Technology, advised by Prof. Chao Sun. My research interest includes cooperative perception, embodied agents and world models.
+I am a Ph.D student in School of Mechanical Engineering, Beijing Institute of Technology, advised by **Prof. Chao Sun**. 
+
+I have been fortunate to collaborate with **[Beijing Innovation Center of Humanoid Robotics](https://x-humanoid.com/about.html)**.
+
+My research interest includes **Cooperative Perception**, **Embodied Agents** and **World Models**.
 
 <!--# 🔥 News-->
 # 🔥 _Paper News_
