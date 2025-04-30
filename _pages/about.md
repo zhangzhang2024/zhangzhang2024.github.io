@@ -26,9 +26,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--# 🔥 News-->
 # 🔥 _Paper News :_
+- *2025.04* : &nbsp; Occupancy World Model for Robots.
 - *2025.04* : &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots.
-- *2025.04* : &nbsp; RoadFormer: Road Surface Classification Using Local-Global Feature Fusion.
-<!--- *2025.03* : &nbsp; Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration.-->
+- *2025.04* : &nbsp; RoadFormer: Road Surface Classification Using Local-Global Feature Fusion. <!--- *2025.03* : &nbsp; Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration.-->
 - *2025.03* : &nbsp; HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots.
 - *2025.01* : &nbsp; PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model.
 - *2024.12* : &nbsp; HeightFormer: Learning Height Prediction in 3D Feature for Roadside Vision Centric 3D Object Detection via Transformers. 
@@ -37,6 +37,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/robooccworld.png' alt="sym" width="450" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+[Occupancy World Model for Robots]
+  
+**Zhang Zhang\***, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/roboocc.png' alt="sym" width="450" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
