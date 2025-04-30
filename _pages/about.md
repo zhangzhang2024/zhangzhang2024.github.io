@@ -26,15 +26,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--# 🔥 News-->
 # 🔥 _Paper News_
-- _2025.04: RoboOccWorld: Occupancy World Model for Robots_
-- _2025.04: RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots_
-- _2025.04: RoadFormer: Road Surface Classification Using Local-Global Feature Fusion_
-- _2025.03: Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration_
-- _2025.03: HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots_
-- _2025.01: PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model_
-- _2024.12: HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer_
-- _2024.11: PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud_
-- _2024.10: Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space_
+- _2025.04:  RoboOccWorld: Occupancy World Model for Robots_
+- _2025.04:  RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots_
+- _2025.04:  RoadFormer: Road Surface Classification Using Local-Global Feature Fusion_
+- _2025.03:  Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration_
+- _2025.03:  HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots_
+- _2025.01:  PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model_
+- _2024.12:  HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer_
+- _2024.11:  PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud_
+- _2024.10:  Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space_
 
 
 # 📝 _Publications_
