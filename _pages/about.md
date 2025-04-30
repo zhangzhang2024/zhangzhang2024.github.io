@@ -40,10 +40,10 @@ My research interests focus on: **Cooperative Perception**, **Embodied Agents** 
 # 📝 _Publications_
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">arxiv 2025</div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 16px;">
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[Occupancy World Model for Robots]**
   
-<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang
+_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang_
 
 - _We restructure the OccWorld-ScanNet benchmark to evaluate the forecasting of scene evolutions._
 - _We propose a occupancy world model for robots' decision and exploration._
@@ -52,10 +52,10 @@ My research interests focus on: **Cooperative Perception**, **Embodied Agents** 
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">arxiv 2025</div><img src='images/roboocc.png' alt="sym" width="400" height="300"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 16px;">
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>**
   
-<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang
+_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang_
 
 - _We introduce a method for enhancing geometric and semantic scene understanding in 3D occupancy prediction task for robots._
 </div>
@@ -63,10 +63,10 @@ My research interests focus on: **Cooperative Perception**, **Embodied Agents** 
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">arxiv 2025</div><img src='images/roadformer.png' alt="sym" width="400" height="300"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 16px;">
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[RoadFormer: Road Surface Classification Using Local-Global Feature Fusion]**
   
-Tianze Wang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Chao Sun, Todo
+_Tianze Wang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Chao Sun, Todo_
 
 - _We propose a feature stacking method that comprehensively considers both local and global information for road surface classification._
 </div>
@@ -74,10 +74,10 @@ Tianze Wang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Chao Sun,
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">arxiv 2025</div><img src='images/qmambair.jpg' alt="sym" width="400" height="300"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 16px;">
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.21970.pdf" style="text-decoration: none;">Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration</a>**
   
-Yujie Chen, Haotong Qin, <span style="color: #000000;">**Zhang Zhang**</span>, Michelo Magno, Luca Benini, Yawei Li
+_Yujie Chen, Haotong Qin, <span style="color: #000000;">**Zhang Zhang**</span>, Michelo Magno, Luca Benini, Yawei Li_
 
 - _We propose an accurate, efficient, and flexible quantized mamaba for image restoration task._
 </div>
@@ -85,10 +85,10 @@ Yujie Chen, Haotong Qin, <span style="color: #000000;">**Zhang Zhang**</span>, M
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">arxiv 2025</div><img src='images/h-pano.png' alt="sym" width="400" height="300"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 16px;">
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.09010.pdf" style="text-decoration: none;">HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots</a>**
   
-Qiang Zhang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu
+_Qiang Zhang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu_
 
 - _We propose a novel hybrid cross-modal perception framework that synergistically integrates panoramic vision and LiDAR sensing for humanoid robots._
 </div>
@@ -96,20 +96,20 @@ Qiang Zhang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Wei Cui\*
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">todo</div><img src='images/pillarmamba.png' alt="sym" width="400" height="300"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 16px;">
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model]**
   
-<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Todo
+_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Todo_
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">arxiv 2025</div><img src='images/heightformer.png' alt="sym" width="400" height="300"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 16px;">
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer](https://arxiv.org/pdf/2503.10777.pdf)**
 **<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer</a>**
   
-<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, Da Wen, Yujie Chen, Tianze Wang, Jianghao Leng
+_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, Da Wen, Yujie Chen, Tianze Wang, Jianghao Leng_
 
 - _We propose an efficient framework learning height prediction in voxel features via transformer for roadside visual perception._
 </div>
@@ -117,10 +117,10 @@ Qiang Zhang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Wei Cui\*
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">under review</div><img src='images/pillarid.png' alt="sym" width="400" height="300"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 16px;">
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud]**
   
-<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, Da Wen
+_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, Da Wen_
 
 - _We propose a dense backbone-based network for utilizing the rich contextual information of the roadside point cloud effectively._
 </div>
@@ -128,10 +128,10 @@ Qiang Zhang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Wei Cui\*
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">T-ITS 2025</div><img src='images/height3d.png' alt="sym" width="400" height="300"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 16px;">
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space]**
   
-<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, Bin Guo, Da Wen, Tianyi Zhu, Qili Ning
+_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, Bin Guo, Da Wen, Tianyi Zhu, Qili Ning_
 
 - _We propose a novel roadside visual perception framework based on the heightnet in real 3D space instead of image 2D space._
 </div>
