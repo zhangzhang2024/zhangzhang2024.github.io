@@ -26,15 +26,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--# 🔥 News-->
 # 🔥 _Paper News_
-- _2025.04: &nbsp RoboOccWorld: Occupancy World Model for Robots_
-- _2025.04: &nbsp RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots_
-- _2025.04: &nbsp RoadFormer: Road Surface Classification Using Local-Global Feature Fusion_
-- _2025.03: &nbsp Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration_
-- _2025.03: &nbsp HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots_
-- _2025.01: &nbsp PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model_
-- _2024.12: &nbsp HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer_
-- _2024.11: &nbsp PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud_
-- _2024.10: &nbsp Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space_
+- _2025.04: &nbsp; RoboOccWorld: Occupancy World Model for Robots_
+- _2025.04: &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots_
+- _2025.04: &nbsp; RoadFormer: Road Surface Classification Using Local-Global Feature Fusion_
+- _2025.03: &nbsp; Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration_
+- _2025.03: &nbsp; HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots_
+- _2025.01: &nbsp; PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model_
+- _2024.12: &nbsp; HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer_
+- _2024.11: &nbsp; PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud_
+- _2024.10: &nbsp; Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space_
 
 
 # 📝 _Publications_
@@ -46,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 <span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang
 
 - _We restructure the OccWorld-ScanNet benchmark to evaluate the forecasting of scene evolutions._
-- _We propose a occupancy world model based on the spatial understanding and temporal modeling of the 3D scene for robots' decision and exploration._
+- _We propose a occupancy world model for robots' decision and exploration._
 </div>
 </div>
 
