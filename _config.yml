@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhang Zhang"
+title                    : "Zhang Zhang (张涨)"
 description              : "Comming soon. "
 repository               : "zhangzhang2024/zhangzhang2024.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhang Zhang"
   avatar           : "images/zz.jpg"
-  bio              : "PhD student @ BIT"
+  bio              : "PhD student"
   location         : "Beijing, China"
-  employer         :
+  employer         : "Beijing Institute of Technology"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : #"Lorem@ipsum.com"
