@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D student in School of Mechanical Engineering, Beijing Institute of Technology, advised by **Prof. Chao Sun**. 
+Hi, I am Zhang Zhang, a Ph.D student in School of Mechanical Engineering, Beijing Institute of Technology, advised by **Prof. Chao Sun**. 
 
 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/about.html" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**.
 
@@ -25,7 +25,7 @@ My research interest includes **Cooperative Perception**, **Embodied Agents** an
 
 <!--# 🔥 News-->
 # 🔥 _Paper News_
-- _2025.04: &nbsp; RoboOccWorld: Occupancy World Model for Robots_
+- _2025.04: &nbsp; Occupancy World Model for Robots_
 - _2025.04: &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots_
 - _2025.04: &nbsp; RoadFormer: Road Surface Classification Using Local-Global Feature Fusion_
 - _2025.03: &nbsp; Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration_
@@ -52,7 +52,7 @@ My research interest includes **Cooperative Perception**, **Embodied Agents** an
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">arxiv 2025</div><img src='images/roboocc.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 16px;">
-**[RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots](https://arxiv.org/pdf/2504.14604.pdf)**
+**<a href="https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>**
   
 <span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang
 
@@ -74,7 +74,7 @@ Tianze Wang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Chao Sun,
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">arxiv 2025</div><img src='images/qmambair.jpg' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 16px;">
-**[Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration](https://arxiv.org/pdf/2503.21970.pdf)**
+**<a href="https://arxiv.org/pdf/2503.21970.pdf" style="text-decoration: none;">Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration</a>**
   
 Yujie Chen, Haotong Qin, <span style="color: #000000;">**Zhang Zhang**</span>, Michelo Magno, Luca Benini, Yawei Li
 
@@ -85,7 +85,7 @@ Yujie Chen, Haotong Qin, <span style="color: #000000;">**Zhang Zhang**</span>, M
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">arxiv 2025</div><img src='images/h-pano.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 16px;">
-**[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010.pdf)**
+**<a href="https://arxiv.org/pdf/2503.09010.pdf" style="text-decoration: none;">HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots</a>**
   
 Qiang Zhang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu
 
@@ -106,10 +106,11 @@ Qiang Zhang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Wei Cui\*
   <div><div class="badge">arxiv 2025</div><img src='images/heightformer.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 16px;">
 **[HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer](https://arxiv.org/pdf/2503.10777.pdf)**
+**<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer</a>**
   
 <span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, Da Wen, Yujie Chen, Tianze Wang, Jianghao Leng
 
-- _We propose an efficient framework learning height prediction in voxel features via transformers for roadside visual perception._
+- _We propose an efficient framework learning height prediction in voxel features via transformer for roadside visual perception._
 </div>
 </div>
 
