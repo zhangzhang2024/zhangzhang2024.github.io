@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zhang Zhang, a Ph.D student in School of Mechanical Engineering, Beijing Institute of Technology, advised by **Prof. Chao Sun**. 
+Hi, 👋
+I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **Prof. Chao Sun**. 
 
-I have been fortunate to collaborate with **<a href="https://x-humanoid.com/about.html" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**.
+🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/about.html" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**.
 
-My research interest includes **Cooperative Perception**, **Embodied Agents** and **World Models**.
+My research interests focus on: **Cooperative Perception**, **Embodied Agents** and **World Models**.
 
 <!--# 🔥 News-->
 # 🔥 _Paper News_
