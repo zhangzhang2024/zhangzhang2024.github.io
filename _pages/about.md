@@ -67,6 +67,8 @@ My research interest includes neural machine translation and computer vision. I 
 **[RoadFormer: Road Surface Classification Using Local-Global Feature Fusion]**
   
 Tianze Wang\*, **Zhang Zhang\***, Chao Sun, Todo
+
+- _We propose a feature stacking method that comprehensively considers both local and global information for road surface classification._
 </div>
 </div>
 
@@ -76,6 +78,8 @@ Tianze Wang\*, **Zhang Zhang\***, Chao Sun, Todo
 **[Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration](https://arxiv.org/pdf/2503.21970.pdf)**
   
 Yujie Chen, Haotong Qin, **Zhang Zhang**, Michelo Magno, Luca Benini, Yawei Li
+
+- _We propose an accurate, efficient, and flexible quantized mamaba for image restoration task._
 </div>
 </div>
 
