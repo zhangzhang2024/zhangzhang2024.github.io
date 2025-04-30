@@ -21,7 +21,7 @@ redirect_from:
 
 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/about.html" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**.
 
-🔥 My research interests focus on: _**Cooperative Perception**_, _**Embodied Agents**_ and _**World Models**_:
+🔥 My research interests focus on: **Cooperative Perception**, **Embodied Agents** and **World Models**.
 
 # 🔥 _Paper News_
 - _2025.04: &nbsp; Occupancy World Model for Robots_
