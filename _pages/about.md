@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0; font-size: 12px;">
 **[Occupancy World Model for Robots]**
   
-**Zhang Zhang\***, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang
+<strong class="bold-strong">Zhang Zhang\*</strong>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang
 
 - _We restructure the OccWorld-ScanNet benchmark to evaluate the forecasting of scene evolutions._
 - _We propose a occupancy world model based on the spatial understanding and temporal modeling of the 3D scene for robots' decision and exploration._
