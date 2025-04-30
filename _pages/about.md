@@ -85,6 +85,8 @@ Yujie Chen, Haotong Qin, **Zhang Zhang**, Michelo Magno, Luca Benini, Yawei Li
 **[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010.pdf)**
   
 Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu
+
+- _We propose a novel hybrid cross-modal perception framework that synergistically integrates panoramic vision and LiDAR sensing for humanoid robots._
 </div>
 </div>
 
@@ -103,6 +105,8 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 **[HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer](https://arxiv.org/pdf/2503.10777.pdf)**
   
 **Zhang Zhang**, Chao Sun, Chao Yue, Da Wen, Yujie Chen, Tianze Wang, Jianghao Leng
+
+- _We propose an efficient framework learning height prediction in voxel features via transformers for roadside visual perception._
 </div>
 </div>
 
@@ -112,6 +116,8 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 **[PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud]**
   
 **Zhang Zhang**, Chao Sun, Bo Wang, Da Wen
+
+- _We propose a dense backbone-based network for utilizing the rich contextual information of the roadside point cloud effectively._
 </div>
 </div>
 
@@ -121,6 +127,8 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
 **[Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space]**
   
 **Zhang Zhang**, Chao Sun, Bo Wang, Bin Guo, Da Wen, Tianyi Zhu, Qili Ning
+
+- _We propose a novel roadside visual perception framework Height3D, based on the heightnet in real 3D space instead of in image 2D space._
 </div>
 </div>
 
