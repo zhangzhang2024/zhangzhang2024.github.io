@@ -22,7 +22,7 @@ I am currently a Ph.D student at School of Mechanical Engineering, Beijing Insti
 
 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/about.html" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**.
 
-🔥 My current research interests focus on: 
+My current research interests focus on: 
 - **V2X**：Roadside Perception, Cooperative Perception
 - **Embodied Agents**: BEV Segmentation, 3D Occupancy Prediction
 - **World Models**: 4D Scene Simulation, Generative Models
