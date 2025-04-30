@@ -26,7 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--# 🔥 News-->
 # 🔥 _Paper News_
-- *2025.04* : &nbsp; Occupancy World Model for Robots
+- *2025.04* : &nbsp; RoboOccWorld: Occupancy World Model for Robots
 - *2025.04* : &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots
 - *2025.04* : &nbsp; RoadFormer: Road Surface Classification Using Local-Global Feature Fusion
 - *2025.03* : &nbsp; Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration
