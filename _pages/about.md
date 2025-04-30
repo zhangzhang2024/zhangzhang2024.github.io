@@ -46,7 +46,6 @@ My research interest includes neural machine translation and computer vision. I 
 **Zhang Zhang\***, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang
 </div>
 </div>
-
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">arxiv 2025</div><img src='images/roboocc.png' alt="sym" width="300" height="200"></div></div>
 <div class='paper-box-text' markdown="1" style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
