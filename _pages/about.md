@@ -62,7 +62,7 @@ Tianze Wang\*, **Zhang Zhang\***, Chao Sun, Todo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/qmambair.pdf' alt="sym" width="450" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/qmambair.jpg' alt="sym" width="450" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 [Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration](https://arxiv.org/pdf/2503.21970.pdf)
   
