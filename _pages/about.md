@@ -132,7 +132,7 @@ Qiang Zhang\*, **Zhang Zhang\***, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo
   
 **Zhang Zhang**, Chao Sun, Bo Wang, Bin Guo, Da Wen, Tianyi Zhu, Qili Ning
 
-- _We propose a novel roadside visual perception framework Height3D, based on the heightnet in real 3D space instead of in image 2D space._
+- _We propose a novel roadside visual perception framework based on the heightnet in real 3D space instead of image 2D space._
 </div>
 </div>
 
