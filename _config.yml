@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhang Zhang (张涨)"
-description              : "Comming soon. "
+description              : #"Comming soon. "
 repository               : "zhangzhang2024/zhangzhang2024.github.io"
 google_scholar_stats_use_cdn : true
 
