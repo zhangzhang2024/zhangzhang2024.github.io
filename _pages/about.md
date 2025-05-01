@@ -29,14 +29,14 @@ redirect_from:
 
 # 🔥 _Paper News_
 - _2025.04: &nbsp; Occupancy World Model for Robots_
-- <h2 style="font-size: 5px;"> _2025.04: &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots_
-- <h2 style="font-size: 12px;"> _2025.04: &nbsp; RoadFormer: Road Surface Classification Using Local-Global Feature Fusion_
-- <h2 style="font-size: 12px;"> _2025.03: &nbsp; Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration_
-- <h2 style="font-size: 12px;"> _2025.03: &nbsp; HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots_
-- <h2 style="font-size: 12px;"> _2025.01: &nbsp; PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model_
-- <h2 style="font-size: 12px;"> _2024.12: &nbsp; HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer_
-- <h2 style="font-size: 12px;"> _2024.11: &nbsp; PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud_
-- <h2 style="font-size: 12px;"> _2024.10: &nbsp; Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space_
+- _2025.04: &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots_
+- _2025.04: &nbsp; RoadFormer: Road Surface Classification Using Local-Global Feature Fusion_
+- _2025.03: &nbsp; Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration_
+- _2025.03: &nbsp; HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots_
+- _2025.01: &nbsp; PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model_
+- _2024.12: &nbsp; HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer_
+- _2024.11: &nbsp; PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud_
+- <h2 style="font-size: 12px;"> _2024.10: &nbsp; Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space_</h2>
 
 
 # 📝 _Selected Publications_
