@@ -59,7 +59,7 @@ _<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\
   
 _<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang_
 
-- _We introduce a method for enhancing geometric and semantic scene understanding in 3D occupancy prediction task for robots._
+- _We present a method to enhance geometric and semantic scene understanding in 3D occupancy prediction for robots._
 </div>
 </div>
 
