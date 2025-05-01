@@ -6,11 +6,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Selected Publications"
-    url: "/#-selected-publications"
+  - title: "Selected Papers"
+    url: "/#-selected-papers"
 
-  - title: "All Publications"
-    url: "/#-all-publications"
+  - title: "All Papers"
+    url: "/#-all-papers"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
