@@ -27,6 +27,10 @@ My current research interests focus on:
 - **Embodied Agents**: BEV Segmentation, 3D Occupancy Prediction
 - **World Models**: 4D Scene Simulation, Generative AI
 
+# 📖 Educations
+- *2022.09 - Present*, PhD student,	School of Machanical Engineering, Beijing Institute of Technology. 
+- *2018.09 - 2022.06*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. 
+
 # 🔥 _Paper News_
 - _2025.04: &nbsp; Occupancy World Model for Robots_
 - _2025.04: &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots_
@@ -41,7 +45,7 @@ My current research interests focus on:
 
 # 📝 _Publications_
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">arxiv 2025</div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
+  <div><div class="badge">Arxiv 2025</div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[Occupancy World Model for Robots]**
   
@@ -53,7 +57,7 @@ _<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">arxiv 2025</div><img src='images/roboocc.png' alt="sym" width="400" height="300"></div></div>
+  <div><div class="badge">Under review</div><img src='images/roboocc.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>**
   
@@ -64,18 +68,18 @@ _<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">arxiv 2025</div><img src='images/roadformer.png' alt="sym" width="400" height="300"></div></div>
+  <div><div class="badge">To do</div><img src='images/roadformer.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[RoadFormer: Road Surface Classification Using Local-Global Feature Fusion]**
   
-_Tianze Wang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Chao Sun, Todo_
+_Tianze Wang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Chao Sun, To do_
 
 - _We propose a feature stacking method that comprehensively considers both local and global information for road surface classification._
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">arxiv 2025</div><img src='images/qmambair.jpg' alt="sym" width="400" height="300"></div></div>
+  <div><div class="badge">Under review</div><img src='images/qmambair.jpg' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.21970.pdf" style="text-decoration: none;">Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration</a>**
   
@@ -86,7 +90,7 @@ _Yujie Chen, Haotong Qin, <span style="color: #000000;">**Zhang Zhang**</span>, 
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">arxiv 2025</div><img src='images/h-pano.png' alt="sym" width="400" height="300"></div></div>
+  <div><div class="badge">Under review</div><img src='images/h-pano.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.09010.pdf" style="text-decoration: none;">HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots</a>**
   
@@ -97,16 +101,16 @@ _Qiang Zhang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Wei Cui\
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">todo</div><img src='images/pillarmamba.png' alt="sym" width="400" height="300"></div></div>
+  <div><div class="badge">To do</div><img src='images/pillarmamba.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model]**
   
-_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Todo_
+_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, To do_
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">arxiv 2025</div><img src='images/heightformer.png' alt="sym" width="400" height="300"></div></div>
+  <div><div class="badge">Under review</div><img src='images/heightformer.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer</a>**
   
@@ -117,7 +121,7 @@ _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, Da We
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">under review</div><img src='images/pillarid.png' alt="sym" width="400" height="300"></div></div>
+  <div><div class="badge">Under review</div><img src='images/pillarid.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud]**
   
@@ -149,10 +153,6 @@ _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, Bin Gu
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
