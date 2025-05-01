@@ -27,7 +27,7 @@ redirect_from:
 - *2022 - Present*, PhD student, School of Machanical Engineering, Beijing Institute of Technology. 
 - *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. -->
 
-# 🔥 _Paper News_
+# 🔥 _News_
 - _2025.04: &nbsp; Occupancy World Model for Robots_
 - _2025.04: &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots_
 - _2025.04: &nbsp; RoadFormer: Road Surface Classification Using Local-Global Feature Fusion_
@@ -39,7 +39,8 @@ redirect_from:
 - _2024.10: &nbsp; Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space_
 
 
-# 📝 _Selected Publications_
+# 📝 _Publications_
+## _Selected Publications_
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">Arxiv 2025</div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
@@ -85,7 +86,7 @@ _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, Da We
 </div>
 </div>
 
-# 📝 _All Publications_
+## _All Publications_
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">Arxiv 2025</div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
