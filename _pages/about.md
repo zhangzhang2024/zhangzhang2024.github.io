@@ -18,14 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 _About Me_ <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhang2024.github.io) -->
-I am currently a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **<a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>**. 
-
-🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/about.html" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**.
-
-My current research interests focus on: 
-- **V2X**：Roadside Perception, Cooperative Perception
-- **Embodied Agents**: BEV Segmentation, 3D Occupancy Prediction
-- **World Models**: 4D Scene Simulation, Generative AI
+- 🎓 I am currently a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **<a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>**. 
+- 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/about.html" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**.
+- ✨ My current research interests focus on: **V2X**, **Embodied Agents**, **World Models**.
+- 📫 Reach me via [Mail](zhangzhang00@bit.edu.cn)
 
 <!-- # 📖 Educations
 - *2022 - Present*, PhD student, School of Machanical Engineering, Beijing Institute of Technology. 
