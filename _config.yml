@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhang Zhang (张涨)"
   avatar           : "images/zz.jpg"
-  bio              : "Ph.D student"
+  bio              : #"Ph.D student"
   location         : #"Beijing, China"
   employer         : "Beijing Institute of Technology"
   pubmed           : 
