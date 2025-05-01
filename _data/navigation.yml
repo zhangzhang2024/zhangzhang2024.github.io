@@ -1,13 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#-about-me"
 
   - title: "Paper News"
-    url: "/#-news"
+    url: "/#-paper-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+   - title: "Selected Publications"
+    url: "/#-selected-publications"
+    
+  - title: "V2X"
+    url: "/#-v2x"
+
+  - title: "Embodied Agents"
+    url: "/#-embodied-agents"
+
+  - title: "World Models"
+    url: "/#-world-models"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
@@ -18,5 +27,5 @@ main:
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Internships"
+  #   url: "/#-internships"
