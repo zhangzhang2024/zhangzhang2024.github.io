@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 _About Me_ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhang2024.github.io)
+# 👋 _About Me_ <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhang2024.github.io) -->
 I am currently a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **Prof. Chao Sun**. 
 
 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/about.html" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**.
