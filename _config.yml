@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhang Zhang (张涨)"
-description              : " #![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhang2024.github.io) "
+description              : " ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhang2024.github.io) "
 repository               : "zhangzhang2024/zhangzhang2024.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Zhang Zhang (张涨)"
   avatar           : "images/zz.jpg"
   bio              : "PhD student"
-  location         : "Beijing, China"
+  location         : #"Beijing, China"
   employer         : "Beijing Institute of Technology"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
