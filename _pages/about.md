@@ -25,7 +25,7 @@ I am currently a Ph.D student at School of Mechanical Engineering, Beijing Insti
 My current research interests focus on: 
 - **V2X**：Roadside Perception, Cooperative Perception
 - **Embodied Agents**: BEV Segmentation, 3D Occupancy Prediction
-- **World Models**: 4D Scene Simulation, Generative Models
+- **World Models**: 4D Scene Simulation, Generative AI
 
 # 🔥 _Paper News_
 - _2025.04: &nbsp; Occupancy World Model for Robots_
@@ -108,7 +108,6 @@ _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Todo_
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">arxiv 2025</div><img src='images/heightformer.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
-**[HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer](https://arxiv.org/pdf/2503.10777.pdf)**
 **<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer</a>**
   
 _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, Da Wen, Yujie Chen, Tianze Wang, Jianghao Leng_
