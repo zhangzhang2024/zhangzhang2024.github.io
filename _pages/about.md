@@ -198,13 +198,13 @@ _Under review_
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">T-ITS 2025</div><img src='images/height3d.png' alt="sym" width="400" height="300"></div></div>
+  <div><img src='images/height3d.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space]**
   
 _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, Bin Guo, Da Wen, Tianyi Zhu, Qili Ning_
 
-_IEEE Transactions on Intelligent Transportation Systems(**TITS**), 2025._
+_IEEE Transactions on Intelligent Transportation Systems (**TITS**), 2025._
 
 - _We propose a novel roadside visual perception framework based on the heightnet in real 3D space instead of image 2D space._
 </div>
