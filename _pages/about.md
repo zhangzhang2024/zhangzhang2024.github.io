@@ -41,7 +41,7 @@ redirect_from:
 
 
 # 📝 _Publications_
-## _Selected_
+## _Selected Publications_
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">Arxiv 2025</div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
@@ -87,7 +87,7 @@ _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, Da We
 </div>
 </div>
 
-## _All_
+## _All Publications_
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><div class="badge">Arxiv 2025</div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
