@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#-about-me"
+    url: "/#about-me"
 
   - title: "Paper News"
     url: "/#-paper-news"
@@ -9,14 +9,8 @@ main:
    - title: "Selected Publications"
     url: "/#-selected-publications"
     
-  - title: "V2X"
-    url: "/#-v2x"
-
-  - title: "Embodied Agents"
-    url: "/#-embodied-agents"
-
-  - title: "World Models"
-    url: "/#-world-models"
+  - title: "All Publications"
+    url: "/#-all-publications"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
