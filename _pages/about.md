@@ -27,9 +27,9 @@ My current research interests focus on:
 - **Embodied Agents**: BEV Segmentation, 3D Occupancy Prediction
 - **World Models**: 4D Scene Simulation, Generative AI
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2022 - Present*, PhD student, School of Machanical Engineering, Beijing Institute of Technology. 
-- *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. 
+- *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. -->
 
 # 🔥 _Paper News_
 - _2025.04: &nbsp; Occupancy World Model for Robots_
