@@ -21,7 +21,7 @@ redirect_from:
 - 🎓 I am currently a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **<a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>**. 
 - 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/about.html" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**.
 - ✨ My current research interests focus on: **V2X**, **Embodied Agents**, **World Models**.
-- 📫 If you are interested in academic collaboration, feel free to reach me via **[zhangzhang00@bit.edu.cn](mailto:zhangzhang00@bit.edu.cn)** — I'd love to connect!
+- 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect!
   
 
 <!-- # 📖 Educations
