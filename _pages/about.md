@@ -29,7 +29,7 @@ redirect_from:
 - *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. -->
 
 # 🔥 _News_
-- <span style="font-size: 0.5em;">_2025.04: &nbsp; Occupancy World Model for Robots_</span>
+- _2025.04: &nbsp; Occupancy World Model for Robots_
 - _2025.04: &nbsp; RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots_
 - _2025.04: &nbsp; RoadFormer: Road Surface Classification Using Local-Global Feature Fusion_
 - _2025.03: &nbsp; Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration_
