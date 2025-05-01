@@ -87,20 +87,25 @@ _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, Da We
 
 # 🎨 _All Papers_
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">Arxiv 2025</div><img src='images/robooccworld.png' alt="sym" width="200" height="150"></div></div>
+  <div><div class="badge">Arxiv 2025</div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
-_**[Occupancy World Model for Robots]**_
+**[Occupancy World Model for Robots]**
   
 _<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang_
+
+- _We restructure the OccWorld-ScanNet benchmark to evaluate the forecasting of scene evolutions._
+- _We propose a occupancy world model for robots' decision and exploration._
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><div class="badge">Under review</div><img src='images/roboocc.png' alt="sym" width="200" height="150"></div></div>
+  <div><div class="badge">Under review</div><img src='images/roboocc.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
-_**<a href="https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>**_
+**<a href="https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>**
   
 _<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang_
+
+- _We present a method to enhance geometric and semantic scene understanding in 3D occupancy prediction for robots._
 </div>
 </div>
 
