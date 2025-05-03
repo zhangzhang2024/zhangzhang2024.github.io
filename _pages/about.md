@@ -204,7 +204,7 @@ _Under review_
   
 _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, Bin Guo, Da Wen, Tianyi Zhu, Qili Ning_
 
-_**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE Transactions on Intelligent Transportation Systems (**TITS**), 2025.</a>**_ 
+_**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE Transactions on Intelligent Transportation Systems (TITS), 2025.</a>**_ 
 
 - _We propose a novel roadside visual perception framework based on the heightnet in real 3D space instead of image 2D space._
 </div>
