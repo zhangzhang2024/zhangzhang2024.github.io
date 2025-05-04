@@ -32,10 +32,10 @@ redirect_from:
 - *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. -->
 
 # 🔥 _News_
-- _2025.05: &nbsp; **RoboOccWorld** &amp; **PillarMamba** are released._
+- _2025.05: &nbsp; **RoboOccWorld** is released._
 - _2025.04: &nbsp; **RoboOcc** &amp; **RoadFormer** are released._
 - _2025.03: &nbsp; **Q-MambaIR** &amp; **HumanoidPano** are released._
-- _2025.02: &nbsp; **HeightFormer** is released._
+- _2025.02: &nbsp; **HeightFormer** &amp; **PillarMamba** are released._
 - _2024.10: &nbsp; **Height3D** &amp; **PillarID** are released._
 
 # ⭐ _Selected Papers_
