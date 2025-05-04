@@ -36,8 +36,7 @@ redirect_from:
 - _2025.04: &nbsp; **RoboOcc** & **RoadFormer** are released._
 - _2025.03: &nbsp; **Q-MambaIR** & **HumanoidPano** are released._
 - _2025.02: &nbsp; **HeightFormer** is released._
-- _2024.11: &nbsp; **PillarID** is released._
-- _2024.10: &nbsp; **Height3D** is released._
+- _2024.10: &nbsp; **Height3D** & **PillarID** are released._
 
 # ⭐ _Selected Papers_
 \* Equal contribution &nbsp; † Corresponding author
