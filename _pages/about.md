@@ -40,13 +40,13 @@ redirect_from:
 - _2024.10: &nbsp; Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space_
 
 # ⭐ _Selected Papers_
-\* Equal contribution, &dagger Corresponding author
+\* Equal contribution, † Corresponding author
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[Occupancy World Model for Robots]**
   
-_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang_
+_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang†_
 
 _Under review_
 
@@ -60,7 +60,7 @@ _Under review_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>**
   
-_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang_
+_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang†_
 
 _Under review_
 
@@ -73,7 +73,7 @@ _Under review_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.09010.pdf" style="text-decoration: none;">HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots</a>**
   
-_Qiang Zhang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu_
+_Qiang Zhang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang†, Renjing Xu†_
 
 _Under review_
 
@@ -86,7 +86,7 @@ _Under review_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer</a>**
   
-_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, Da Wen, Yujie Chen, Tianze Wang, Jianghao Leng_
+_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun†, Chao Yue, Da Wen, Yujie Chen, Tianze Wang, Jianghao Leng_
 
 _Under review_
 
@@ -100,7 +100,7 @@ _Under review_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[Occupancy World Model for Robots]**
   
-_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang_
+_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang†_
 
 _Under review_
 
@@ -114,7 +114,7 @@ _Under review_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>**
   
-_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang_
+_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang†_
 
 _Under review_
 
@@ -127,7 +127,7 @@ _Under review_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[RoadFormer: Road Surface Classification Using Local-Global Feature Fusion]**
   
-_Tianze Wang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Chao Sun, To do_
+_Tianze Wang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Chao Sun†, To do_
 
 _To do_
 
@@ -140,7 +140,7 @@ _To do_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model]**
   
-_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, To do_
+_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun†, To do_
 
 _To do_
 </div>
@@ -151,7 +151,7 @@ _To do_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.09010.pdf" style="text-decoration: none;">HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots</a>**
   
-_Qiang Zhang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu_
+_Qiang Zhang\*, <span style="color: #000000;">**Zhang Zhang\***</span>, Wei Cui\*, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, Hao Cheng, Yujie Chen, Lin Wang, Jian Tang†, Renjing Xu†_
 
 _Under review_
 
@@ -164,7 +164,7 @@ _Under review_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.21970.pdf" style="text-decoration: none;">Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration</a>**
   
-_Yujie Chen, Haotong Qin, <span style="color: #000000;">**Zhang Zhang**</span>, Michelo Magno, Luca Benini, Yawei Li_
+_Yujie Chen, Haotong Qin†, <span style="color: #000000;">**Zhang Zhang**</span>, Michelo Magno, Luca Benini, Yawei Li†_
 
 _Under review_
 
@@ -177,7 +177,7 @@ _Under review_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer</a>**
   
-_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, Da Wen, Yujie Chen, Tianze Wang, Jianghao Leng_
+_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun†, Chao Yue, Da Wen, Yujie Chen, Tianze Wang, Jianghao Leng_
 
 _Under review_
 
@@ -190,7 +190,7 @@ _Under review_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud]**
   
-_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, Da Wen_
+_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun†, Bo Wang, Da Wen_
 
 _Under review_
 
@@ -203,7 +203,7 @@ _Under review_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space]**
   
-_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, Bin Guo, Da Wen, Tianyi Zhu, Qili Ning_
+_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun†, Bo Wang, Bin Guo, Da Wen, Tianyi Zhu, Qili Ning_
 
 _**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE Transactions on Intelligent Transportation Systems (TITS), 2025.</a>**_ 
 
