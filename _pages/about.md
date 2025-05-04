@@ -40,7 +40,7 @@ redirect_from:
 - _2024.10: &nbsp; Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space_
 
 # ⭐ _Selected Papers_
-\* Equal contribution, \dagger Corresponding author
+\* Equal contribution, &dagger Corresponding author
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
