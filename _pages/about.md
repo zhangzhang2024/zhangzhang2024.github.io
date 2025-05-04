@@ -32,11 +32,11 @@ redirect_from:
 - *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. -->
 
 # 🔥 _News_
-- _2025.05: &nbsp; RoboOccWorld is released._
-- _2025.04: &nbsp; RoboOcc and RoadFormer are released._
-- _2025.03: &nbsp; Q-MambaIR and HumanoidPano are released._
-- _2025.02: &nbsp; HeightFormer and PillarMamba are released._
-- _2024.10: &nbsp; Height3D and PillarID are released._
+- 2025.05: &nbsp; _RoboOccWorld_ for robotics world model is released.
+- 2025.04: &nbsp; _RoboOcc_ for robotics perception and _RoadFormer_ for roadside perception are released.
+- 2025.03: &nbsp; _Q-MambaIR_ for image restoration and _HumanoidPano_ for robotics perception are released.
+- 2025.02: &nbsp; _HeightFormer_ and _PillarMamba_ for roadside perception are released.
+- 2024.10: &nbsp; _Height3D_ and _PillarID_ for roadside perception are released.
 
 # ⭐ _Selected Papers_
 \* Equal contribution &nbsp; † Corresponding author
