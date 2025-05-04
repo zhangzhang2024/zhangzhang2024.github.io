@@ -25,7 +25,6 @@ redirect_from:
 ✨ My current research interests focus on: **V2X**, **Embodied Agents**, **World Models**.
 
 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect!
-  
 
 <!-- # 📖 Educations
 - *2022 - Present*, PhD student, School of Machanical Engineering, Beijing Institute of Technology. **<a href="zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>**
@@ -44,7 +43,7 @@ redirect_from:
   <div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[Occupancy World Model for Robots]**
-  
+
 _<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang†_
 
 _Under review_
