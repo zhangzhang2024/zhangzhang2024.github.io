@@ -32,7 +32,7 @@ redirect_from:
 
 # 🔥 _News_
 - 2025.05: &nbsp; _**RoboOccWorld**_ for robotics world model is released.
-- 2025.04: &nbsp; _**RoboOcc**_ for robotics perception and _**RoadFormer**_ for road perception are released.
+- 2025.04: &nbsp; _**RoboOcc**_ for robotics perception is released.
 - 2025.03: &nbsp; _**Q-MambaIR**_ for image restoration and _**HumanoidPano**_ for robotics perception are released.
 - 2025.02: &nbsp; _**HeightFormer**_ and _**PillarMamba**_ for roadside perception are released.
 - 2024.10: &nbsp; _**Height3D**_ and _**PillarID**_ for roadside perception are released.
@@ -121,7 +121,7 @@ _Under review_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
+<--!<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/roadformer.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[RoadFormer: Road Surface Classification Using Local-Global Feature Fusion]**
@@ -132,7 +132,7 @@ _To do_
 
 - _We propose a feature stacking method that comprehensively considers both local and global information for road surface classification._
 </div>
-</div>
+</div>-->
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/pillarmamba.png' alt="sym" width="400" height="300"></div></div>
