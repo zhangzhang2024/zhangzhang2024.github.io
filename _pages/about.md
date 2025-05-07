@@ -117,7 +117,7 @@ _Under review_
 </div>
 </div>
 
-<--!<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
+<!-- <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/roadformer.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[RoadFormer: Road Surface Classification Using Local-Global Feature Fusion]**
@@ -128,7 +128,7 @@ _To do_
 
 - _We propose a feature stacking method that comprehensively considers both local and global information for road surface classification._
 </div>
-</div>-->
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/pillarmamba.png' alt="sym" width="400" height="300"></div></div>
