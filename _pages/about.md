@@ -31,7 +31,7 @@ redirect_from:
 - *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. -->
 
 # 🔥 _News_
-- 2025.02: &nbsp; One paper for roadside perception is accepted by _**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE TITS.</a>**_ .
+- 2025.02: &nbsp; One paper for roadside perception is accepted by **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE TITS</a>**.
 
 # ⭐ _Selected Papers_
 \* Equal contribution &nbsp; † Corresponding author
