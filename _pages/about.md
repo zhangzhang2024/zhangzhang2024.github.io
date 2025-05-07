@@ -40,7 +40,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[Occupancy World Model for Robots]**
 
-_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang†_
+_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Jingkai Sun, Jiahang Cao, Jiaxu Wang, Hao Cheng, Xiaozhu Ju, Zhengping Che, Renjing Xu, Jian Tang†_
 
 _Under review_
 
@@ -95,7 +95,7 @@ _Under review_
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **[Occupancy World Model for Robots]**
   
-_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Hengle Ren, Renjing Xu, Jian Tang†_
+_<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Jingkai Sun, Jiahang Cao, Jiaxu Wang, Hao Cheng, Xiaozhu Ju, Zhengping Che, Renjing Xu, Jian Tang†_
 
 _Under review_
 
