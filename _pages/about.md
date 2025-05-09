@@ -82,6 +82,8 @@ _Under review_
   
 _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun†, Chao Yue, Da Wen, Tianze Wang, Jianghao Leng_
 
+_Under review_
+
 _We propose a local-global method to boost the power of the standard state space model and address the local connection disrupted and historical relationship forgotten._
 </div>
 </div>
@@ -160,6 +162,8 @@ _Under review_
 **<a href="https://arxiv.org/pdf/2505.05397.pdf" style="text-decoration: none;">PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model</a>**
   
 _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun†, Chao Yue, Da Wen, Tianze Wang, Jianghao Leng_
+
+_Under review_
 
 _We propose a local-global method to boost the power of the standard state space model and address the local connection disrupted and historical relationship forgotten._
 </div>
