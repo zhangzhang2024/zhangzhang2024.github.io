@@ -76,6 +76,17 @@ _Under review_
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
+  <div><img src='images/pillarmamba.png' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
+**<a href="https://arxiv.org/pdf/2505.05397.pdf" style="text-decoration: none;">PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model</a>**
+  
+_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun†, Chao Yue, Da Wen, Tianze Wang, Jianghao Leng_
+
+_We propose a local-global method to boost the power of the standard state space model and address the local connection disrupted and historical relationship forgotten._
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/heightformer.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer</a>**
@@ -131,17 +142,6 @@ _To do_
 </div> -->
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/pillarmamba.png' alt="sym" width="400" height="300"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 14px;">
-**[PillarMamba: Learning Dense Context Information for Roadside Point Cloud 3D Object Detection via State Space Model]**
-  
-_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun†, To do_
-
-_To do_
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/h-pano.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.09010.pdf" style="text-decoration: none;">HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots</a>**
@@ -155,15 +155,13 @@ _Under review_
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/qmambair.jpg' alt="sym" width="400" height="300"></div></div>
+  <div><img src='images/pillarmamba.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
-**<a href="https://arxiv.org/pdf/2503.21970.pdf" style="text-decoration: none;">Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration</a>**
+**<a href="https://arxiv.org/pdf/2505.05397.pdf" style="text-decoration: none;">PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model</a>**
   
-_Yujie Chen, Haotong Qin†, <span style="color: #000000;">**Zhang Zhang**</span>, Michelo Magno, Luca Benini, Yawei Li†_
+_<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun†, Chao Yue, Da Wen, Tianze Wang, Jianghao Leng_
 
-_Under review_
-
-- _We propose an accurate, efficient, and flexible quantized mamaba for image restoration task._
+_We propose a local-global method to boost the power of the standard state space model and address the local connection disrupted and historical relationship forgotten._
 </div>
 </div>
 
@@ -177,6 +175,19 @@ _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun†, Chao Yue, Da
 _Under review_
 
 - _We propose an efficient framework learning height prediction in voxel features via transformer for roadside visual perception._
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
+  <div><img src='images/qmambair.jpg' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
+**<a href="https://arxiv.org/pdf/2503.21970.pdf" style="text-decoration: none;">Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration</a>**
+  
+_Yujie Chen, Haotong Qin†, <span style="color: #000000;">**Zhang Zhang**</span>, Michelo Magno, Luca Benini, Yawei Li†_
+
+_Under review_
+
+- _We propose an accurate, efficient, and flexible quantized mamaba for image restoration task._
 </div>
 </div>
 
