@@ -38,7 +38,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
-**[Occupancy World Model for Robots]**
+**<a href="https://arxiv.org/pdf/2505.05512v1.pdf" style="text-decoration: none;">Occupancy World Model for Robots</a>**
 
 _<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Jingkai Sun, Jiahang Cao, Jiaxu Wang, Hao Cheng, Xiaozhu Ju, Zhengping Che, Renjing Xu, Jian Tang†_
 
@@ -106,7 +106,7 @@ _Under review_
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/robooccworld.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
-**[Occupancy World Model for Robots]**
+**<a href="https://arxiv.org/pdf/2505.05512v1.pdf" style="text-decoration: none;">Occupancy World Model for Robots</a>**
   
 _<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Jingkai Sun, Jiahang Cao, Jiaxu Wang, Hao Cheng, Xiaozhu Ju, Zhengping Che, Renjing Xu, Jian Tang†_
 
