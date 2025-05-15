@@ -22,7 +22,7 @@ redirect_from:
 
 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**.
 
-✨ My current research interests focus on: **Embodied AI**, **Generative Models**, **V2X**.
+✨ My current research interests focus on: **Embodied AI**, **Generative Models**, **Autonomous Driving**.
 
 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect!
 
