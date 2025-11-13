@@ -47,7 +47,7 @@ redirect_from:
 
 - Roadside/Collaborative/Embodied Perception
 
-- Collaborative E2E/VLA/World Models 
+- E2E/VLA/World Models in Collaborative Autonomous Driving
 
 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect 🤗!
 
