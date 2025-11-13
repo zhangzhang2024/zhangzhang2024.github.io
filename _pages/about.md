@@ -22,7 +22,7 @@ redirect_from:
 
 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**.
 
-✨ My current research interests focus on: **3D Vision** and **Generative Models**.
+✨ My current research interests focus on: **Intelligent Transportation System**, **Autonomous Driving** and **Embodied AI**. 
 
 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect!
 
@@ -83,7 +83,7 @@ _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, et al
 
 _Under review_
 
-_We propose a local-global method to boost the power of the standard state space model and address the local connection disrupted and historical relationship forgotten._
+- _We propose a local-global method to boost the power of the standard state space model and address the local connection disrupted and historical relationship forgotten._
 </div>
 </div>
 
@@ -107,7 +107,7 @@ _Under review_
   
 _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, et al._
 
-_Under review_
+_**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE Transactions on Intelligent Transportation Systems (TITS), 2025.</a>**_ 
 
 - _We propose a dense backbone-based network for utilizing the rich contextual information of the roadside point cloud effectively._
 </div>
