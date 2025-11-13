@@ -123,7 +123,7 @@ _Under review_
   
 **<a href="https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>**
   
-_<span style="color: #000000;">Zhang Zhang*</span>, <span style="color: #777777;">Qiang Zhang</span>, <span style="color: #777777;">Wei Cui</span>, <span style="color: #777777;">et al</span>._
+_<span style="color: #000000;">Zhang Zhang</span>, <span style="color: #777777;">Qiang Zhang</span>, <span style="color: #777777;">Wei Cui</span>, <span style="color: #777777;">et al</span>._
 
 _Under review_
 
