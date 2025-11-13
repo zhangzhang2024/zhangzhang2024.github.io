@@ -60,7 +60,7 @@ redirect_from:
 # 🔥 _Publications_
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/heatv2x.png' alt="sym" width="600" height="400"></div></div>
+  <div><img src='images/heatv2x.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 
 **<a href="https://arxiv.org/pdf/2508.01210" style="text-decoration: none;">HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction</a>**
@@ -74,7 +74,7 @@ _Under review_
 </div> 
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/roadmamba.png' alt="sym" width="400" height="300"></div></div>
+  <div><img src='images/roadmamba.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
   
 **<a href="https://arxiv.org/pdf/2508.01210" style="text-decoration: none;">RoadMamba: A Dual-Branch Visual State Space Model for Road Surface Classification</a>**
@@ -104,7 +104,7 @@ _Under review_
 -->
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/pillarmamba.png' alt="sym" width="400" height="300"></div></div>
+  <div><img src='images/pillarmamba.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
   
 **<a href="https://arxiv.org/pdf/2505.05397.pdf" style="text-decoration: none;">PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model</a>**
@@ -118,7 +118,7 @@ _Under review_
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/roboocc.png' alt="sym" width="400" height="300"></div></div>
+  <div><img src='images/roboocc.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
   
 **<a href="https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>**
@@ -132,7 +132,7 @@ _Under review_
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/heightformer_fig2.png' alt="sym" width="400" height="300"></div></div>
+  <div><img src='images/heightformer_fig2.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
   
 **<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer</a>**
@@ -146,7 +146,7 @@ _Under review_ \| **<a href="https://github.com/zhangzhang2024/HeightFormer" sty
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/h-pano.png' alt="sym" width="400" height="300"></div></div>
+  <div><img src='images/h-pano.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
   
 **<a href="https://arxiv.org/pdf/2503.09010.pdf" style="text-decoration: none;">HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots</a>**
@@ -160,7 +160,7 @@ _Under review_
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/pillarid.png' alt="sym" width="400" height="300"></div></div>
+  <div><img src='images/pillarid.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
   
 **PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud**
@@ -174,7 +174,7 @@ _**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/height3d.png' alt="sym" width="400" height="300"></div></div>
+  <div><img src='images/height3d.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
   
 **<a href="https://ieeexplore.ieee.org/document/11005676" style="text-decoration: none;">Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space</a>** 
