@@ -45,7 +45,7 @@ redirect_from:
 
 🤗 More specifically, my research interests include:
 
-- Roadside/Collaborative Perception
+- Roadside/Collaborative/Embodied Perception
 
 - Collaborative E2E/VLA/World Models 
 
@@ -102,6 +102,20 @@ _Under review_
 </div>
 </div> 
 -->
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
+  <div><img src='images/humanoidocc.png' alt="sym" width="500" height="400"></div></div>
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
+  
+**<a href="https://arxiv.org/pdf/2507.20217" style="text-decoration: none;">Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots</a>**
+  
+_X-Humanoid Team_
+
+_**<a href="https://autonomousrobots.nl/workshops/2025-iros" style="text-decoration: none;">IROS Workshop on PM2CE</a>** \| **<a href="https://humanoid-occupancy.github.io/" style="text-decoration: none;">Project</a>**_ 
+
+- _We release a generalized multimodal occupancy perception system for humanoid robots._
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/pillarmamba.png' alt="sym" width="500" height="400"></div></div>
