@@ -56,7 +56,6 @@ redirect_from:
 - *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. -->
 
 <br>
-<br>
 
 # 🔥 _Publications_
 
