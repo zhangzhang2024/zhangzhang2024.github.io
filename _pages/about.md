@@ -9,16 +9,6 @@ redirect_from:
 ---
 
 <style>
-  /* 加粗文本 */
-  strong, b {
-    color: #8B0000; /* 深红色 */
-  }
-  
-  /* 引用文本 */
-  blockquote {
-    color: #8B0000;
-    border-left-color: #8B0000;
-  }
   
   /* 链接文本（新增） */
   a {
@@ -66,9 +56,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/heatv2x.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
-**HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction**
 
-**<a href="https://arxiv.org/pdf/2508.01210" style="text-decoration: none;">PDF</a>**
+**<a href="https://arxiv.org/pdf/2508.01210" style="text-decoration: none;">HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction</a>**
 
 _Yueran Zhao, <span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, et al._ 
 
