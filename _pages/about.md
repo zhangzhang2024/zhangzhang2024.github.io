@@ -8,6 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  /* 加粗文本（<strong> 或 **文本**） */
+  strong, b {
+    color: #8B0000; /* 深红色（十六进制值） */
+  }
+  
+  /* 引用文本（<blockquote> 或 > 文本） */
+  blockquote {
+    color: #8B0000; /* 深红色 */
+    /* 可选：保留引用的默认样式（如左侧边框） */
+    border-left-color: #8B0000; /* 引用左侧边框也改为深红色 */
+  }
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
