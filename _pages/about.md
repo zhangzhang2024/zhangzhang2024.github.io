@@ -24,7 +24,7 @@ redirect_from:
 
 ✨ My research interests are in the **Intelligent Transportation System** and **Collaborative Autonomous Driving**. 
 
-More specifically, my research interests include:
+🤗 More specifically, my research interests include:
 
 - Roadside Multi-modal and Heterogeneous Multi-agent Perception
 
@@ -37,6 +37,19 @@ More specifically, my research interests include:
 - *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. -->
 
 # 🔥 _Publications_
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
+  <div><img src='images/heatv2x.png' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
+**<a href="https://arxiv.org/pdf/2508.01210" style="text-decoration: none;">HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction</a>**
+
+_Yueran Zhao, <span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, et al._ 
+
+_Under review_
+
+- _We propose Heterogeneous Adaptation, a scalable collaborative framework via efficient alignment and interaction._
+</div>
+</div> 
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/roadmamba.png' alt="sym" width="400" height="300"></div></div>
