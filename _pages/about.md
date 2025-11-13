@@ -26,7 +26,7 @@ redirect_from:
 
 More specifically, my research interests include:
 
-- Roadside Multi-modal and Collaborative Heterogeneous Perception
+- Roadside Multi-modal and Heterogeneous Multi-agent Perception
 
 - VLA/World Models in Collaborative Autonomous Driving
 
