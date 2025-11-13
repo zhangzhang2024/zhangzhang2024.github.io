@@ -65,7 +65,7 @@ redirect_from:
 
 **<a href="https://arxiv.org/pdf/2508.01210" style="text-decoration: none;">HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction</a>**
 
-_Yueran Zhao, <span style="color: #000000;">Zhang Zhang</span>, Chao Sun, et al._ 
+_<span style="color: #777777;">Yueran Zhao</span>, <span style="color: #000000;">Zhang Zhang</span>, <span style="color: #777777;">Chao Sun</span>, et al._ 
 
 _Under review_
 
