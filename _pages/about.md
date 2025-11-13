@@ -24,11 +24,9 @@ redirect_from:
 
 ✨ My research interests are in the **Intelligent Transportation System** and **Collaborative Autonomous Driving**. More specifically, my research interests include:
 
-- Roadside Perception
+- Roadside and Collaborative Perception
 
-- Collaborative Perception
-
-- Collaborative Planning
+- Collaborative and Generative Models
 
 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect 🤗!
 
