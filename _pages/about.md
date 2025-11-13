@@ -9,16 +9,26 @@ redirect_from:
 ---
 
 <style>
-  /* 加粗文本（<strong> 或 **文本**） */
+  /* 加粗文本 */
   strong, b {
-    color: #8B0000; /* 深红色（十六进制值） */
+    color: #8B0000; /* 深红色 */
   }
   
-  /* 引用文本（<blockquote> 或 > 文本） */
+  /* 引用文本 */
   blockquote {
-    color: #8B0000; /* 深红色 */
-    /* 可选：保留引用的默认样式（如左侧边框） */
-    border-left-color: #8B0000; /* 引用左侧边框也改为深红色 */
+    color: #8B0000;
+    border-left-color: #8B0000;
+  }
+  
+  /* 链接文本（新增） */
+  a {
+    color: #8B0000; /* 链接默认颜色 */
+    text-decoration: none; /* 可选：去掉除下划线 */
+  }
+  
+  /* 鼠标悬停时的链接颜色（可选） */
+  a:hover {
+    color: #CD5C5C; /* 稍浅的红色，增强交互感 */
   }
 </style>
 
