@@ -55,8 +55,9 @@ redirect_from:
 - *2022 - Present*, PhD student, School of Machanical Engineering, Beijing Institute of Technology. **<a href="zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>**
 - *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. -->
 
+<br>
+<br>
 
-  
 # 🔥 _Publications_
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
