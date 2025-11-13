@@ -25,6 +25,7 @@ redirect_from:
 ✨ My current research interests focus on: 
 
 -**Intelligent Transportation System**:
+
 -**Connected Vehicles**:
 
 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect!
@@ -34,6 +35,19 @@ redirect_from:
 - *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. -->
 
 # 🔥 _Publications_
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
+  <div><img src='images/roadmamba.pdf' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
+**<a href="https://arxiv.org/pdf/2508.01210" style="text-decoration: none;">RoadMamba: ADual-Branch Visual State Space Model for Road Surface Classification</a>**
+
+_Tianze Wang, <span style="color: #000000;">**Zhang Zhang\***</span>, Chao Yue, et al._ 
+
+_Under review_
+
+- _We explore for the first time the potential of visual Mamba architectures for road surface classification task and propose a framework that effectively combines local-global perception._
+</div>
+</div> 
 
 <!--
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
