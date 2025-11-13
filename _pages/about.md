@@ -22,11 +22,13 @@ redirect_from:
 
 <!-- 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**. -->
 
-✨ My current research interests focus on: 
+✨ My research interests are in the **Intelligent Transportation System** and **Collaborative Autonomous Driving**. More specifically, my research interests include:
 
-- **Intelligent Transportation System**
+- Roadside Perception
 
-- **Collaborative Autonomous Driving**
+- Collaborative Perception
+
+- Collaborative Planning
 
 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect 🤗!
 
