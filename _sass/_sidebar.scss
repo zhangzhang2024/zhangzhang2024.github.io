@@ -81,18 +81,19 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 150px !important; /* 增大宽度 */
+  width: 150px; // 可以增大这个值，比如改为 100px 或更大
 
   @include breakpoint($large) {
     display: block;
-    width: auto !important;
+    width: auto;
     height: auto;
   }
 
   img {
-    max-width: 600px !important; /* 增大最大宽度 */
-    min-width: 400px !important; /* 增大最小宽度 */
-    border-radius: 0 !important; /* 强制方形（覆盖圆形） */
+    max-width: 600px; // 增大最大宽度，比如改为 200px 或更大
+    min-width: 300px; // 增大最小宽度
+    // 移除或注释掉 border-radius: 50%; 这行代码，去掉圆形效果
+    // border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
