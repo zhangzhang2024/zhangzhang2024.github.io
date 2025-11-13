@@ -15,6 +15,11 @@ redirect_from:
     color: #8B0000; /* 链接默认颜色 */
     text-decoration: none; /* 可选：去掉除下划线 */
   }
+
+  /* 全局字体设置 */
+  body {
+    font-family: "Arial";
+  }
   
   /* 鼠标悬停时的链接颜色（可选） */
   a:hover {
