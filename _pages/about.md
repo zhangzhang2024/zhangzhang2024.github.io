@@ -88,7 +88,7 @@ _We propose a local-global method to boost the power of the standard state space
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/heightformer.png' alt="sym" width="400" height="300"></div></div>
+  <div><img src='images/heightformer_fig2.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer</a>**
   
