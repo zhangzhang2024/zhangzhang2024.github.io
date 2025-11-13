@@ -41,7 +41,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2508.01210" style="text-decoration: none;">RoadMamba: ADual-Branch Visual State Space Model for Road Surface Classification</a>**
 
-_Tianze Wang, <span style="color: #000000;">**Zhang Zhang\***</span>, Chao Yue, et al._ 
+_Tianze Wang, <span style="color: #000000;">**Zhang Zhang**</span>, Chao Yue, et al._ 
 
 _Under review_
 
