@@ -135,7 +135,7 @@ _Under review_
   
 _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, et al._
 
-_Under review_ | **<a href="https://github.com/zhangzhang2024/HeightFormer" style="text-decoration: none;">Code</a>**
+_Under review_ \| **<a href="https://github.com/zhangzhang2024/HeightFormer" style="text-decoration: none;">Code</a>**
 
 - _We propose an efficient framework learning height prediction in voxel features via transformer for roadside visual perception._
 </div>
