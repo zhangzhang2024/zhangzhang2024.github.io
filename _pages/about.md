@@ -148,7 +148,7 @@ _**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/height3d.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
-**<a href="https://ieeexplore.ieee.org/document/11005676" style="text-decoration: none;">Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space]</a>** 
+**<a href="https://ieeexplore.ieee.org/document/11005676" style="text-decoration: none;">Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D Space</a>** 
   
 _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, et al._
 
