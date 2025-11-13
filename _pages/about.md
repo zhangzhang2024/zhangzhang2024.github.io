@@ -22,7 +22,9 @@ redirect_from:
 
 <!-- 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**. -->
 
-✨ My research interests are in the **Intelligent Transportation System** and **Collaborative Autonomous Driving**. More specifically, my research interests include:
+✨ My research interests are in the **Intelligent Transportation System** and **Collaborative Autonomous Driving**. 
+
+More specifically, my research interests include:
 
 - Roadside and Collaborative Perception
 
