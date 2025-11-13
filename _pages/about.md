@@ -161,7 +161,7 @@ _Under review_
   
 _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, et al._
 
-_**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025.</a>** | **<a href="https://github.com/zhangzhang2024/PillarID" style="text-decoration: none;">Code</a>**_ 
+_**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025.</a>** \| **<a href="https://github.com/zhangzhang2024/PillarID" style="text-decoration: none;">Code</a>**_ 
 
 - _We propose a dense backbone-based network for utilizing the rich contextual information of the roadside point cloud effectively._
 </div>
@@ -174,7 +174,7 @@ _**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style
   
 _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, et al._
 
-_**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025</a>** | **<a href="https://github.com/zhangzhang2024/Height3D" style="text-decoration: none;">Code</a>**_ 
+_**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025</a>** \| **<a href="https://github.com/zhangzhang2024/Height3D" style="text-decoration: none;">Code</a>**_ 
 
 - _We propose a novel roadside visual perception framework based on the heightnet in real 3D space instead of image 2D space._
 </div>
