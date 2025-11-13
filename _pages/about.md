@@ -157,7 +157,7 @@ _Under review_
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/pillarid.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
-**[PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud]**
+**PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud**
   
 _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Bo Wang, et al._
 
