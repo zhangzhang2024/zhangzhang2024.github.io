@@ -24,9 +24,9 @@ redirect_from:
 
 ✨ My current research interests focus on: 
 
--**Intelligent Transportation System**:
+- **Intelligent Transportation System**:
 
--**Connected Vehicles**:
+- **Connected Vehicles**:
 
 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect!
 
