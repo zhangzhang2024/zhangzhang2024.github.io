@@ -167,7 +167,7 @@ _Under review_
   
 _<span style="color: #000000;">Zhang Zhang</span>, <span style="color: #777777;">Chao Sun</span>, <span style="color: #777777;">Bo Wang</span>, <span style="color: #777777;">et al</span>._
 
-_**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025.</a>** \| **<a href="https://github.com/zhangzhang2024/PillarID" style="text-decoration: none;">Code</a>**_ 
+_**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025</a>** \| **<a href="https://github.com/zhangzhang2024/PillarID" style="text-decoration: none;">Code</a>**_ 
 
 - _We propose a dense backbone-based network for utilizing the rich contextual information of the roadside point cloud effectively._
 </div>
