@@ -66,32 +66,6 @@ _Under review_
 -->
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/roboocc.png' alt="sym" width="400" height="300"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 14px;">
-**<a href="https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>**
-  
-_<span style="color: #000000;">**Zhang Zhang**</span>, Qiang Zhang, Wei Cui, et al._
-
-_Under review_
-
-- _We present a method to enhance geometric and semantic scene understanding in 3D occupancy prediction for robots._
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/h-pano.png' alt="sym" width="400" height="300"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 14px;">
-**<a href="https://arxiv.org/pdf/2503.09010.pdf" style="text-decoration: none;">HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots</a>**
-  
-_Qiang Zhang, <span style="color: #000000;">**Zhang Zhang**</span>, Wei Cui, et al._
-
-_Under review_
-
-- _We propose a novel hybrid cross-modal perception framework that synergistically integrates panoramic vision and LiDAR sensing for humanoid robots._
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/pillarmamba.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2505.05397.pdf" style="text-decoration: none;">PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model</a>**
@@ -105,6 +79,19 @@ _Under review_
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
+  <div><img src='images/roboocc.png' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
+**<a href="https://arxiv.org/pdf/2504.14604.pdf" style="text-decoration: none;">RoboOcc: Enhancing the Geometric and Semantic Scene Understanding for Robots</a>**
+  
+_<span style="color: #000000;">**Zhang Zhang**</span>, Qiang Zhang, Wei Cui, et al._
+
+_Under review_
+
+- _We present a method to enhance geometric and semantic scene understanding in 3D occupancy prediction for robots._
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/heightformer_fig2.png' alt="sym" width="400" height="300"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 **<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer</a>**
@@ -114,6 +101,19 @@ _<span style="color: #000000;">**Zhang Zhang**</span>, Chao Sun, Chao Yue, et al
 _Under review_
 
 - _We propose an efficient framework learning height prediction in voxel features via transformer for roadside visual perception._
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
+  <div><img src='images/h-pano.png' alt="sym" width="400" height="300"></div></div>
+<div class='paper-box-text' markdown="1" style="font-size: 14px;">
+**<a href="https://arxiv.org/pdf/2503.09010.pdf" style="text-decoration: none;">HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots</a>**
+  
+_Qiang Zhang, <span style="color: #000000;">**Zhang Zhang**</span>, Wei Cui, et al._
+
+_Under review_
+
+- _We propose a novel hybrid cross-modal perception framework that synergistically integrates panoramic vision and LiDAR sensing for humanoid robots._
 </div>
 </div>
 
