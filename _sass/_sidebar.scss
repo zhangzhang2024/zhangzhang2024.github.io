@@ -81,7 +81,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 100px; // 可以增大这个值，比如改为 100px 或更大
+  width: 75px; // 可以增大这个值，比如改为 100px 或更大
 
   @include breakpoint($large) {
     display: block;
