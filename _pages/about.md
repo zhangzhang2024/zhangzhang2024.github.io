@@ -45,9 +45,9 @@ redirect_from:
 
 🤗 More specifically, my research interests include:
 
-- Roadside Multi-modal and Heterogeneous Multi-agent Perception
+- Roadside/Collaborative Perception
 
-- End-to-End/VLA/World Models in Collaborative Autonomous Driving
+- Collaborative E2E/VLA/World Models 
 
 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect 🤗!
 
