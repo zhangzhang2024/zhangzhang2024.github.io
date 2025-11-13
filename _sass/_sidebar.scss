@@ -90,8 +90,8 @@
   }
 
   img {
-    max-width: 300px !important; /* 增大最大宽度 */
-    min-width: 150px !important; /* 增大最小宽度 */
+    max-width: 600px !important; /* 增大最大宽度 */
+    min-width: 400px !important; /* 增大最小宽度 */
     border-radius: 0 !important; /* 强制方形（覆盖圆形） */
 
     @include breakpoint($large) {
