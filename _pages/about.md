@@ -26,7 +26,7 @@ redirect_from:
 
 - Roadside and Collaborative Perception
 
-- Generative Models in Collaboration
+- VLA/World Models in Collaboration
 
 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect 🤗!
 
