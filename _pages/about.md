@@ -49,7 +49,7 @@ redirect_from:
 
 - Collaborative End-to-End / VLA / World Models
 
-- Traffic / Autonomous Driving Vision-Language-Models
+- Traffic / Autonomous Driving VLMs
 
 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect 🤗!
 
