@@ -61,9 +61,13 @@ redirect_from:
 
 # 🔥 _Publications_
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/heatv2x.png' alt="sym" width="500" height="400"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 14px;">
+<div class='paper-box'>
+  <div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
+    <div><img src='images/heatv2x.png' alt="sym" width="500" height="400" style="object-fit: cover;"></div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="font-size: 14px;">
+  </div>
+</div>
 
 **<a href="https://arxiv.org/pdf/2508.01210" style="text-decoration: none;">HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction</a>**
 
