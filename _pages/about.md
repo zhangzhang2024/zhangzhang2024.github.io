@@ -45,11 +45,11 @@ redirect_from:
 
 🤗 More specifically, my research interests include:
 
-- Roadside / Collaborative / Embodied Perception
+- Roadside / Vehicle-side / Collaborative / Embodied Perception
 
-- Collaborative End-to-End / VLA / World Models
+- End-to-End Planning with VLA+World Models in Autonomous Driving
 
-- Traffic / Autonomous Driving VLMs
+- Spatial Reasoning with Vision-Language Models in Autonomous Driving
 
 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect 🤗!
 
