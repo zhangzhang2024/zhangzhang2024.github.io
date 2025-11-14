@@ -83,7 +83,7 @@ _Under review_
 
 _<span style="color: #777777;">Tianze Wang</span>, <span style="color: #000000;">Zhang Zhang</span>, <span style="color: #777777;">Chao Yue</span>, <span style="color: #777777;">et al</span>._ 
 
-_Under review_
+_arXiv, 2025_
 
 - _We explore for the first time the potential of visual Mamba architectures for road surface classification task and propose a framework that effectively combines local-global perception._
 </div>
