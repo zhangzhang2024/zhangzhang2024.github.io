@@ -45,7 +45,7 @@ redirect_from:
 
 🤗 More specifically, my research interests include:
 
-- Roadside / Vehicle-side / Collaborative / Embodied Perception
+- Roadside / Vehicle-side / Collaborative / Embodied 3D Perception
 
 - End-to-End Planning with VLA+World Models in Autonomous Driving
 
