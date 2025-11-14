@@ -61,7 +61,6 @@ redirect_from:
 
 # 🔥 _Publications_
 
-## _2025_
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/heatv2x.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
@@ -98,7 +97,7 @@ _Under review_
 
 _<span style="color: #000000;">**Zhang Zhang\***</span>, Qiang Zhang\*, Wei Cui\*, Shuai Shi, Yijie Guo, Gang Han, Wen Zhao, Jingkai Sun, Jiahang Cao, Jiaxu Wang, Hao Cheng, Xiaozhu Ju, Zhengping Che, Renjing Xu, Jian Tang†_ 
 
-_Under review_
+_arXiv, 2025_
 
 - _We restructure the OccWorld-ScanNet benchmark to evaluate the forecasting of scene evolutions._
 - _We propose a occupancy world model for robots' decision and exploration._
