@@ -45,7 +45,7 @@ redirect_from:
 
 🤗 More specifically, my research interests include:
 
-- Roadside / Collaborative / Embodied Multi-Modal Perception
+- Roadside / Collaborative / Embodied Perception
 
 - Collaborative End-to-End / VLA / World Models
 
