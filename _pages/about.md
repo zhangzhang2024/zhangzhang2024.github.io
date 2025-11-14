@@ -63,7 +63,7 @@ redirect_from:
 
 <div class='paper-box'>
   <div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-    <div><img src='images/heatv2x.png' alt="sym" width="500" height="400" style="object-fit: cover;"></div>
+    <div><img src='images/heatv2x.png' alt="sym" width="500" height="500" style="object-fit: cover;"></div>
   </div>
   <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 
