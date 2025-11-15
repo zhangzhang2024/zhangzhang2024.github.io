@@ -127,7 +127,7 @@ _**<a href="https://autonomousrobots.nl/workshops/2025-iros" style="text-decorat
   
 _<span style="color: #000000;">Zhang Zhang</span>, <span style="color: #777777;">Chao Sun</span>, <span style="color: #777777;">Chao Yue</span>, <span style="color: #777777;">et al</span>._
 
-_arXiv, 2025_
+_arXiv, 2025_ _\|_  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 4px;"> <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path> </svg>_**<a href="https://github.com/zhangzhang2024/PillarMamba" style="text-decoration: none;">Code</a>**_
 
 - _We propose a local-global method to boost the power of the standard state space model and address the local connection disrupted and historical relationship forgotten._
 </div>
