@@ -47,7 +47,7 @@ redirect_from:
 
 🤗 More specifically, my research interests include:
 
-- End-to-End Planning with VLA+World Models in Autonomous Driving
+- End-to-End Autonomous Driving with Vision-Language-Action-World Models
 
 - Spatial Reasoning with Vision-Language Models in Autonomous Driving
 
