@@ -42,7 +42,9 @@ redirect_from:
 
 <!-- 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**. -->
 
-✨ My previous research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, aiming to enhance agents' spatial understanding of surrounding environment. My currently research interests are in the <span style="color: #000000;">**Spatial Intelligence**</span> and <span style="color: #000000;">**Autonomous Driving**</span>. 
+🔥 My previous research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, aiming to enhance agents' spatial understanding of surrounding environment. 
+
+✨ My currently research interests are in the <span style="color: #000000;">**Spatial Intelligence**</span> and <span style="color: #000000;">**Autonomous Driving**</span>. 
 
 🤗 More specifically, my research interests include:
 
@@ -61,7 +63,7 @@ redirect_from:
 # 🔥 _Publications_
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/heatv2x.png' alt="sym" width="400" height="300"></div></div>
+  <div><img src='images/heatv2x.png' alt="sym" width="300" height="200"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 
 **<a href="https://arxiv.org/pdf/2511.10211" style="text-decoration: none;">HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction</a>**
