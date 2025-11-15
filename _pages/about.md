@@ -41,7 +41,7 @@ redirect_from:
 
 <!-- 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**. -->
 
-✨ My previous research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, aims to enhance agents' spatial understanding of surrounding environment. 
+✨ My previous research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, aiming to enhance agents' spatial understanding of surrounding environment. 
 
 ✨ My currently research interests are in the <span style="color: #000000;">**Spatial Intelligence**</span> and <span style="color: #000000;">**Autonomous Driving**</span>. 
 
