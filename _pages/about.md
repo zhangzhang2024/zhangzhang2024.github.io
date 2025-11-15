@@ -61,10 +61,13 @@ redirect_from:
 <br>
 
 # 🔥 _Publications_
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-        <img src='images//heatv2x.png' alt="sym" width="100%">
+      <div class="badge">arXiv</div>
+        <img src='images/heatv2x.png' alt="sym" width="100%">
+      </div>
     </div>
   <div class='paper-box-text' markdown="1">
   
