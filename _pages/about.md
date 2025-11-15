@@ -75,7 +75,7 @@ _arXiv, 2025_
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
+<!-- <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/roadmamba.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
   
@@ -87,7 +87,7 @@ _arXiv, 2025_
 
 - _We explore for the first time the potential of visual Mamba architectures for road surface classification task and propose a framework that effectively combines local-global perception._
 </div>
-</div> 
+</div>  -->
 
 <!--
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
