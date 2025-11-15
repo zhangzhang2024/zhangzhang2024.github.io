@@ -62,18 +62,20 @@ redirect_from:
 
 # 🔥 _Publications_
 
-<div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/heatv2x.png' alt="sym" width="300" height="200"></div></div>
-<div class='paper-box-text' markdown="1" style="font-size: 14px;">
-**<a href="https://arxiv.org/pdf/2511.10211" style="text-decoration: none;">HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction</a>**
+<div class='paper-box' style="display: flex; align-items: flex-start; gap: 10px; /* 控制图文间距，可按需调整 */">
+  <div class='paper-box-image' style="margin: 0; padding: 0;">
+    <div><img src='images/heatv2x.png' alt="sym" width="300" height="200" style="display: block; margin: 0;"></div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="font-size: 14px; margin: 0; padding: 0;">
+    **<a href="https://arxiv.org/pdf/2511.10211" style="text-decoration: none;">HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction</a>**
 
-_<span style="color: #777777;">Yueran Zhao</span>, <span style="color: #000000;">Zhang Zhang</span>, <span style="color: #777777;">Chao Sun</span>, <span style="color: #777777;">et al</span>._ 
+    _<span style="color: #777777;">Yueran Zhao</span>, <span style="color: #000000;">Zhang Zhang</span>, <span style="color: #777777;">Chao Sun</span>, <span style="color: #777777;">et al</span>._ 
 
-_arXiv, 2025_
+    _arXiv, 2025_
 
-- _We propose Heterogeneous Adaptation, a scalable collaborative framework via efficient alignment and interaction._
+    - _We propose Heterogeneous Adaptation, a scalable collaborative framework via efficient alignment and interaction._
+  </div>
 </div>
-</div> 
 
 <!-- <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
   <div><img src='images/roadmamba.png' alt="sym" width="500" height="400"></div></div>
