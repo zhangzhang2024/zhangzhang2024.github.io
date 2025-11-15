@@ -37,15 +37,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 _About Me_ <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhang2024.github.io) -->
-🎓 I am currently a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **<a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>**. 
+🎓 I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **<a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>**. 
 
 <!-- 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**. -->
 
-✨ My research interests are in the <span style="color: #000000;">**Spatial Intelligence**</span> and <span style="color: #000000;">**Autonomous Driving**</span>. 
+✨ My recent research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, trying to enhance agents' spatial understanding of surrounding environment. 
+
+✨ My currently research interests are in the <span style="color: #000000;">**Spatial Intelligence**</span> and <span style="color: #000000;">**Autonomous Driving**</span>. 
 
 🤗 More specifically, my research interests include:
-
-- Roadside / Vehicle-side / Collaborative / Embodied 3D Perception
 
 - End-to-End Planning with VLA+World Models in Autonomous Driving
 
