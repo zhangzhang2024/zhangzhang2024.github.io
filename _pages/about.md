@@ -38,7 +38,7 @@ redirect_from:
 
 # 👋 _About Me_ <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhang2024.github.io) -->
 
-🎓 Hi, there. I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **<a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>**. 
+🎓 Hi, there.  I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **<a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>**. 
 
 <!-- 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**. -->
 
