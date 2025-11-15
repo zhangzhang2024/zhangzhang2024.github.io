@@ -41,7 +41,7 @@ redirect_from:
 
 <!-- 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**. -->
 
-✨ My research interests are in the <span style="color: #000000;">**3D Perception**</span> and <span style="color: #000000;">**Autonomous Driving**</span>. 
+✨ My research interests are in the <span style="color: #000000;">**Spatial Intelligence**</span> and <span style="color: #000000;">**Autonomous Driving**</span>. 
 
 🤗 More specifically, my research interests include:
 
