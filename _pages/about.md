@@ -65,7 +65,7 @@ redirect_from:
   <div><img src='images/heatv2x.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
 
-**<a href="https://arxiv.org/pdf/2508.01210" style="text-decoration: none;">HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction</a>**
+**<a href="https://arxiv.org/pdf/2511.10211" style="text-decoration: none;">HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction</a>**
 
 _<span style="color: #777777;">Yueran Zhao</span>, <span style="color: #000000;">Zhang Zhang</span>, <span style="color: #777777;">Chao Sun</span>, <span style="color: #777777;">et al</span>._ 
 
