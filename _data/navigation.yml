@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  # - title: "All Papers"
-  #   url: "/#-all-papers"
+  - title: "Preprints"
+    url: "/#-preprints"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
