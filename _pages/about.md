@@ -63,16 +63,16 @@ redirect_from:
 # 🔥 _Publications_
 
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/humanoidocc.png' alt="sym" width="500" height="400"></div></div>
+  <div><img src='images/heightformer_fig2.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
   
-**<a href="https://arxiv.org/pdf/2507.20217" style="text-decoration: none;">Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots</a>**
+**<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer</a>**
   
-_X-Humanoid Team_
+_<span style="color: #000000;">Zhang Zhang</span>, <span style="color: #777777;">Chao Sun</span>, <span style="color: #777777;">Chao Yue</span>, <span style="color: #777777;">et al</span>._
 
-_**<a href="https://autonomousrobots.nl/workshops/2025-iros" style="text-decoration: none;">IROS Workshop on PM2CE, 2025</a>** \| **<a href="https://humanoid-occupancy.github.io/" style="text-decoration: none;">Project</a>**_ 
+_**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025</a>**_ _\|_  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 4px;"> <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path> </svg>_**<a href="https://github.com/zhangzhang2024/HeightFormer" style="text-decoration: none;">Code</a>**_
 
-- _We release a generalized multimodal occupancy perception system for humanoid robots._
+- _We propose an efficient framework learning height prediction in voxel features via transformer for roadside visual perception._
 </div>
 </div>
 
@@ -80,7 +80,7 @@ _**<a href="https://autonomousrobots.nl/workshops/2025-iros" style="text-decorat
   <div><img src='images/pillarid.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
   
-**PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud**
+**<a href="https://ieeexplore.ieee.org/document/11277287" style="text-decoration: none;">PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud**
   
 _<span style="color: #000000;">Zhang Zhang</span>, <span style="color: #777777;">Chao Sun</span>, <span style="color: #777777;">Bo Wang</span>, <span style="color: #777777;">et al</span>._
 
@@ -178,17 +178,19 @@ _arXiv, 2025_
 </div>
 </div>
 
+# 💬 Technical Reports
+
 <div class='paper-box'><div class='paper-box-image' style="display: inline-block; vertical-align: top; margin: 0; padding: 0;">
-  <div><img src='images/heightformer_fig2.png' alt="sym" width="500" height="400"></div></div>
+  <div><img src='images/humanoidocc.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
   
-**<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer</a>**
+**<a href="https://arxiv.org/pdf/2507.20217" style="text-decoration: none;">Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots</a>**
   
-_<span style="color: #000000;">Zhang Zhang</span>, <span style="color: #777777;">Chao Sun</span>, <span style="color: #777777;">Chao Yue</span>, <span style="color: #777777;">et al</span>._
+_X-Humanoid Team_
 
-_arXiv, 2025_ _\|_  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 4px;"> <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path> </svg>_**<a href="https://github.com/zhangzhang2024/HeightFormer" style="text-decoration: none;">Code</a>**_
+_**<a href="https://autonomousrobots.nl/workshops/2025-iros" style="text-decoration: none;">IROS Workshop on PM2CE, 2025</a>** \| **<a href="https://humanoid-occupancy.github.io/" style="text-decoration: none;">Project</a>**_ 
 
-- _We propose an efficient framework learning height prediction in voxel features via transformer for roadside visual perception._
+- _We release a generalized multimodal occupancy perception system for humanoid robots._
 </div>
 </div>
 
@@ -205,7 +207,6 @@ _arXiv, 2025_
 - _We propose a novel hybrid cross-modal perception framework that synergistically integrates panoramic vision and LiDAR sensing for humanoid robots._
 </div>
 </div>
-
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
