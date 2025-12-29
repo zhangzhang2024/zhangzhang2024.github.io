@@ -80,7 +80,7 @@ _**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style
   <div><img src='images/pillarid.png' alt="sym" width="500" height="400"></div></div>
 <div class='paper-box-text' markdown="1" style="font-size: 14px;">
   
-**<a href="https://ieeexplore.ieee.org/document/11277287" style="text-decoration: none;">PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud**
+**<a href="https://ieeexplore.ieee.org/document/11277287" style="text-decoration: none;">PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud</a>**
   
 _<span style="color: #000000;">Zhang Zhang</span>, <span style="color: #777777;">Chao Sun</span>, <span style="color: #777777;">Bo Wang</span>, <span style="color: #777777;">et al</span>._
 
