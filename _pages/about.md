@@ -59,7 +59,7 @@ redirect_from:
 - *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. -->
 
 # 🎉 News
-- *[12/2025]*: &nbsp;🎉🎉 **<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer:</a>** was accepted by _**<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025</a>**_.
+- *[12/2025]*: &nbsp;🎉🎉 **<a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer:</a>** was accepted by **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">T-ITS</a>**.
 - *[10/2025]*: &nbsp;🎉🎉
 - 
 <br>
