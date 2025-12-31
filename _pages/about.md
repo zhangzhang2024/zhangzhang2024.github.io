@@ -59,9 +59,9 @@ redirect_from:
 - *2018 - 2022*, Undergrad student, School of Machanical Engineering, Beijing Institute of Technology. -->
 
 # 🎉 News
-- *[12/2025]: &nbsp;🎉🎉 <a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer</a> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">T-ITS</a>.
-- *[10/2025]: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11277287" style="text-decoration: none;">PillarID</a> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">T-ITS</a>.
-- *[02/2025]: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11005676" style="text-decoration: none;">Height3D</a>  was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">T-ITS</a>.
+- [12/2025]: &nbsp;🎉🎉 <a href="https://arxiv.org/pdf/2503.10777.pdf" style="text-decoration: none;">HeightFormer</a> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">T-ITS</a>.
+- [10/2025]: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11277287" style="text-decoration: none;">PillarID</a> was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">T-ITS</a>.
+- [02/2025]: &nbsp;🎉🎉 <a href="https://ieeexplore.ieee.org/document/11005676" style="text-decoration: none;">Height3D</a>  was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" style="text-decoration: none;">T-ITS</a>.
 <br>
 
 # 🔥 _Publications_
