@@ -36,9 +36,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 _About Me_ <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhang2024.github.io) -->
+# 👋 _About Me_ 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhang2024.github.io)
 
-Hi, there.  I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **<a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>**. 
+Hi, there.  I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by <a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>. 
 
 My previous research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, aiming to enhance agents' spatial understanding of surrounding environment. 
 
