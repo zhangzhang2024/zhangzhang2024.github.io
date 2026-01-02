@@ -38,21 +38,23 @@ redirect_from:
 
 # 👋 _About Me_ <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhangzhang2024.github.io) -->
 
-🎓 Hi, there.  I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **<a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>**. 
+Hi, there.  I am a Ph.D student at School of Mechanical Engineering, Beijing Institute of Technology, advised by **<a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>**. 
 
-<!-- 🤗 I have been fortunate to collaborate with **<a href="https://x-humanoid.com/" style="text-decoration: none;">Beijing Innovation Center of Humanoid Robotics</a>**. -->
+My previous research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, aiming to enhance agents' spatial understanding of surrounding environment. 
 
-🔥 My previous research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, aiming to enhance agents' spatial understanding of surrounding environment. 
+My currently research interests are in the <span style="color: #000000;">End-to-End Autonomous Driving</span>. 
 
-✨ My currently research interests are in the <span style="color: #000000;">**Spatial Intelligence**</span> and <span style="color: #000000;">**Autonomous Driving**</span>. 
+More specifically, my research interests include:
 
-🤗 More specifically, my research interests include:
+- Bridging Perception to Action Space in Supervised Fine-Tuning
 
-- End-to-End Autonomous Driving with Vision-Language-Action-World Models
+- Reinforcement Learning and Fine-Tuning in World Simulator
 
-- Spatial Reasoning with Vision-Language Models in Autonomous Driving
+- End-to-End Vision-Language-Action-World Models
 
-📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect 🤗!
+I have been fortunate to collaborate with <a href="https://x-humanoid.com/" style="text-decoration: none;">X-Humanoid</a>. 
+
+<!-- 📫 If you are interested in academic collaboration, feel free to reach me via **<a href="mailto:zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>** — I'd love to connect 🤗! -->
 
 <!-- # 📖 Educations
 - *2022 - Present*, PhD student, School of Machanical Engineering, Beijing Institute of Technology. **<a href="zhangzhang00@bit.edu.cn" style="text-decoration: none;">zhangzhang00@bit.edu.cn</a>**
