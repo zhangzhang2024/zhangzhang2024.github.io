@@ -43,9 +43,11 @@ Hi, there.  I am a Ph.D student at School of Mechanical Engineering, Beijing Ins
 
 My previous research focused on Roadside / Vehicle-side / Collaborative / Embodied 3D Perception, aiming to enhance agents' spatial understanding of surrounding environment. 
 
-My current research interests are in the <span style="color: #000000;">End-to-End Autonomous Driving</span>. 
+My current research interests are in the <span style="color: #000000;">Spatial Intelligence </span> and <span style="color: #000000;">VLA/World Models</span>. 
 
 More specifically:
+
+- Embodied Panoramic Visual Question Answering
 
 - Bridging Perception to Action Space in Supervised Fine-Tuning
 
