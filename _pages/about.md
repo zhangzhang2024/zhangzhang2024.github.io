@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Zhang Zhang
+title: Home
 permalink: /
 subtitle: Zhang Zhang
 
