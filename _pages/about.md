@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: Zhang Zhang
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: zz.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
