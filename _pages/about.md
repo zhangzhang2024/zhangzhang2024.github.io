@@ -2,7 +2,7 @@
 layout: about
 title: Zhang Zhang
 permalink: /
-subtitle: 
+subtitle: Zhang Zhang
 
 profile:
   align: right
