@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-height3d-a-roadside-visual-framework-based-on-height-prediction-in-real-3d-space-paper-is-accepted-by-t-its-25",
+          title: 'Our Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-pillarid-rethinking-backbone-network-designs-for-pillar-based-3d-object-detection-in-infrastructure-point-cloud-paper-is-accepted-by-t-its-25",
+          title: 'Our PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-heightformer-learning-height-prediction-in-voxel-features-for-roadside-vision-centric-3d-object-detection-via-transformer-paper-is-accepted-by-t-its-25",
+          title: 'Our HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
