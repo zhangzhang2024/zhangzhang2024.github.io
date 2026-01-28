@@ -36,7 +36,7 @@ My research interests include:
 
 - Reinforcement Learning with World Simulator
 
-- VLA / VA / World Models in autonomous systems
+- VLA / VA / World Models in Autonomous System
 
 <p>
   <i class="fas fa-envelope"></i>
