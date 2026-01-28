@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer](https://arxiv.org/pdf/2503.10777.pdf) paper is accepted by [T-ITS'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979) ! 🎉
+Our [HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer](https://arxiv.org/pdf/2503.10777.pdf) paper was accepted by [T-ITS'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979) ! 🎉
