@@ -24,11 +24,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, there. I am a Ph.D student at Beijing Institute of Technology, advised by <a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>. I earned my bachelor’s degree from Beijing Institute of Technology in 2022.
+Hi, there. I am a Ph.D student at Beijing Institute of Technology, advised by <a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>. I earned my bachelor’s degree from Beijing Institute of Technology in 2022. 
 
-My previous research focused on roadside / vehicle-side / collaborative / embodied 3D perception, aiming to enhance agents' spatial awareness for surrounding environment. 
+My previous research focused on roadside / vehicle-side / collaborative / embodied 3D perception, aiming to enhance agents' spatial awareness for surrounding environment. I have been fortunate to collaborate with <a href="https://x-humanoid.com/" style="text-decoration: none;">X-Humanoid</a>. 
 
-Currently my research interests lie in developing autonomous systems through spatial intelligence, generative AI and reinforcement learning. 
+Currently my research interests lie in developing autonomous systems through spatial intelligence, generative models and reinforcement learning. 
+
+My research interests include:
+
+- Representation Learning and Spatial Alignment
+
+- Reinforcement Learning with World Simulator
+
+- VLA / VA / World Models in autonomous systems
 
 <p>
   <i class="fas fa-envelope"></i>
