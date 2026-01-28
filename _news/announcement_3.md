@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-12-01 15:59:00-0400
+date: 2025-10-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our [HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer](https://arxiv.org/pdf/2503.10777.pdf) paper is accepted by [T-ITS'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979) ! 🎉
+Our [PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure Point Cloud](https://ieeexplore.ieee.org/document/11277287) paper is accepted by [T-ITS'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979) ! 🎉
