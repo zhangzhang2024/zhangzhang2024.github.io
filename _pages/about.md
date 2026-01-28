@@ -33,11 +33,12 @@ Currently my research interests lie in developing autonomous systems through spa
 <p>
   <i class="fas fa-envelope"></i>
   <a href="mailto:yourname@nvidia.com">Email</a> |
-  
+
   <i class="ai ai-google-scholar"></i>
   <a href="https://scholar.google.com/citations?user=AbCdEfGhIj">Google Scholar</a> |
-  
-  <i class="fa-brands fa-github"></i>
+
+  <i class="ai ai-github"></i>
   <a href="https://github.com/yourname">GitHub</a>
 </p>
+
 
