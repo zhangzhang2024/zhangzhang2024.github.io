@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-height3d-a-roadside-visual-framework-based-on-height-prediction-in-real-3d-space-paper-is-accepted-by-t-its-25",
-          title: 'Our Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3D...',
+            },},{id: "news-our-height3d-a-roadside-visual-framework-based-on-height-prediction-in-real-3-d-space-paper-is-accepted-by-t-its-25",
+          title: 'Our Height3D: A Roadside Visual Framework Based on Height Prediction in Real 3-D...',
           description: "",
           section: "News",},{id: "news-our-pillarid-rethinking-backbone-network-designs-for-pillar-based-3d-object-detection-in-infrastructure-point-cloud-paper-is-accepted-by-t-its-25",
           title: 'Our PillarID: Rethinking Backbone Network Designs for Pillar-based 3D Object Detection in Infrastructure...',
