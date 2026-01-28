@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, there. I am a Ph.D student at Beijing Institute of Technology, supervised by <a href="https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao" style="text-decoration: none;">Prof. Chao Sun</a>. I earned my bachelor’s degree from Beijing Institute of Technology in 2022. 
+Hi, there. I am a Ph.D student at [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [Prof. Chao Sun](https://scholar.google.com/citations?user=aUnzdwIAAAAJ&hl=zh-CN&oi=ao). I earned my bachelor’s degree from Beijing Institute of Technology in 2022. 
 
-My previous research focused on roadside / vehicle-side / collaborative / embodied 3D perception, aiming to enhance agents' spatial awareness for surrounding environment. I have been fortunate to collaborate with <a href="https://x-humanoid.com/" style="text-decoration: none;">X-Humanoid</a>. 
+My previous research focused on roadside / vehicle-side / collaborative / embodied 3D perception, aiming to enhance agents' spatial awareness for surrounding environment. I have been fortunate to collaborate with [X-Humanoid](https://x-humanoid.com/). 
 
 Currently my research interests lie in developing autonomous systems through spatial intelligence, generative models and reinforcement learning. 
 
@@ -40,7 +40,7 @@ My research interests include:
 
 <p>
   <i class="fas fa-envelope"></i>
-  <a href="zhangzhang00@bit.edu.cn">Email</a> |
+  <a href="mailto:zhangzhang00[at]bit.edu.cn">Email</a> |
 
   <i class="ai ai-google-scholar"></i>
   <a href="https://scholar.google.com.hk/citations?user=Gek6V5wAAAAJ&hl=zh-CN">Google Scholar</a> |
