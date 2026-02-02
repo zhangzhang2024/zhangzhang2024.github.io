@@ -32,11 +32,13 @@ Currently my research interests lie in developing autonomous systems through spa
 
 My research interests include:
 
-- Representation Learning and Spatial Alignment
+- Spatial Representation Learning
 
-- Reinforcement Learning with World Simulator
+- RL with World Simulator
 
-- VLA / VA / World Models in Autonomous System
+- 4D Driving Video Generation Model
+
+- VLA/World Models in Autonomous System
 
 <p>
   <i class="fas fa-envelope"></i>
